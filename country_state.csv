@@ -1,0 +1,615 @@
+Customer_id,Load_Id,Customer_name,Region_id,Postal_Code,Segment,State
+IP43001,LP001002,Claire Gute,13.2,42420,Consumer,Kentucky
+IP43002,LP001003,Darrin Van Huff,13.2,90036,Corporate,California
+IP43003,LP001005,Sean O'Donnell,13.2,33311,Consumer,Florida
+IP43004,LP001006,Brosina Hoffman,13.2,90032,Consumer,California
+IP43005,LP001008,Andrew Allen,13.2,28027,Consumer,North Carolina
+IP43006,LP001011,Irene Maddox,13.2,98103,Consumer,Washington
+IP43007,LP001013,Harold Pawlan,13.3,76106,Home Office,Texas
+IP43008,LP001014,Pete Kriz,13.3,53711,Consumer,Wisconsin
+IP43009,LP001018,Alejandro Grove,13.2,84084,Consumer,Utah
+IP43010,LP001020,Zuschuss Donatelli,13.2,94109,Consumer,California
+IP43011,LP001024,Ken Black,13.3,68025,Corporate,Nebraska
+IP43012,LP001027,Sandra Flanagan,13.4,19140,Consumer,Pennsylvania
+IP43013,LP001028,Emily Burns,13.2,84057,Consumer,Utah
+IP43014,LP001029,Eric Hoffmann,13.2,90049,Consumer,California
+IP43015,LP001030,Tracy Blumstein,13.4,19140,Consumer,Pennsylvania
+IP43016,LP001032,Matt Abelman,13.3,77095,Home Office,Texas
+IP43017,LP001034,Gene Hale,13.3,75080,Corporate,Texas
+IP43018,LP001036,Steve Nguyen,13.3,77041,Home Office,Texas
+IP43019,LP001038,Linda Cazamias,13.3,60540,Corporate,Illinois
+IP43020,LP001041,Ruben Ausman,13.2,90049,Corporate,California
+IP43021,LP001043,Erin Smith,13.2,32935,Corporate,Florida
+IP43022,LP001046,Odella Nelson,13.3,55122,Corporate,Minnesota
+IP43023,LP001047,Patrick O'Donnell,13.3,48185,Consumer,Michigan
+IP43024,LP001050,Lena Hernandez,13.4,19901,Consumer,Delaware
+IP43025,LP001052,Darren Powers,13.3,47150,Consumer,Indiana
+IP43026,LP001066,Janet Molinari,13.4,10024,Corporate,New York
+IP43027,LP001068,Ted Butterfield,13.4,12180,Consumer,New York
+IP43028,LP001073,Kunst Miller,13.2,90004,Consumer,California
+IP43029,LP001086,Paul Stevenson,13.3,60610,Home Office,Illinois
+IP43030,LP001087,Brendan Sweed,13.2,85234,Corporate,Arizona
+IP43031,LP001091,Karen Daniels,13.2,22153,Consumer,Virginia
+IP43032,LP001095,Henry MacAllister,13.4,10009,Consumer,New York
+IP43033,LP001097,Joel Eaton,13.2,38109,Consumer,Tennessee
+IP43034,LP001098,Ken Brennan,13.3,77041,Corporate,Texas
+IP43035,LP001100,Stewart Carmichael,13.2,35601,Corporate,Alabama
+IP43036,LP001106,Duane Noonan,13.2,94122,Consumer,California
+IP43037,LP001109,Julie Creighton,13.2,27707,Corporate,North Carolina
+IP43038,LP001112,Christopher Schild,13.3,60623,Home Office,Illinois
+IP43039,LP001114,Paul Gonzalez,13.3,55901,Consumer,Minnesota
+IP43040,LP001116,Gary Mitchum,13.3,77095,Home Office,Texas
+IP43041,LP001119,Jim Sink,13.2,90036,Corporate,California
+IP43042,LP001120,Karl Braun,13.3,55407,Consumer,Minnesota
+IP43043,LP001123,Roger Barcio,13.2,97206,Home Office,Oregon
+IP43044,LP001131,Parhena Norris,13.4,10009,Home Office,New York
+IP43045,LP001136,Katherine Ducich,13.2,94122,Consumer,California
+IP43046,LP001137,Elpida Rittenbach,13.3,55106,Corporate,Minnesota
+IP43047,LP001138,Rick Bensley,13.3,60610,Home Office,Illinois
+IP43048,LP001144,Gary Zandusky,13.3,55901,Consumer,Minnesota
+IP43049,LP001146,Lena Cacioppo,13.2,80013,Consumer,Colorado
+IP43050,LP001151,Janet Martin,13.2,28205,Consumer,North Carolina
+IP43051,LP001155,Pete Armstrong,13.3,60462,Home Office,Illinois
+IP43052,LP001157,Cynthia Voltz,13.4,10035,Corporate,New York
+IP43053,LP001164,Clay Ludtke,13.3,50322,Consumer,Iowa
+IP43054,LP001179,Ryan Crowe,13.4,43229,Consumer,Ohio
+IP43055,LP001186,Dave Kipp,13.2,98103,Consumer,Washington
+IP43056,LP001194,Greg Guthrie,13.2,37620,Corporate,Tennessee
+IP43057,LP001195,Steven Cartwright,13.4,19805,Consumer,Delaware
+IP43058,LP001197,Alan Dominguez,13.3,77041,Home Office,Texas
+IP43059,LP001198,Philip Fox,13.3,61701,Consumer,Illinois
+IP43060,LP001199,Troy Staebel,13.2,85023,Consumer,Arizona
+IP43061,LP001205,Lindsay Shagiari,13.2,90004,Home Office,California
+IP43062,LP001206,Dorothy Wardle,13.4,43229,Corporate,Ohio
+IP43063,LP001207,Lena Creighton,13.2,95661,Consumer,California
+IP43064,LP001213,Jonathan Doherty,13.4,19140,Corporate,Pennsylvania
+IP43065,LP001222,Sally Hughsby,13.2,94122,Corporate,California
+IP43066,LP001225,Sandra Glassco,13.3,64055,Consumer,Missouri
+IP43067,LP001228,Helen Andreada,13.2,91104,Consumer,California
+IP43068,LP001233,Maureen Gastineau,13.4,43055,Home Office,Ohio
+IP43069,LP001238,Justin Ellison,13.3,53132,Corporate,Wisconsin
+IP43070,LP001241,Tamara Willingham,13.2,85254,Home Office,Arizona
+IP43071,LP001243,Stephanie Phelps,13.2,95123,Corporate,California
+IP43072,LP001245,Neil Knudson,13.2,98105,Home Office,Washington
+IP43073,LP001248,Dave Brooks,13.2,98115,Consumer,Washington
+IP43074,LP001250,Nora Paige,13.3,73034,Consumer,Oklahoma
+IP43075,LP001253,Ted Trevino,13.2,90045,Consumer,California
+IP43076,LP001255,Eric Murdock,13.4,19134,Consumer,Pennsylvania
+IP43077,LP001256,Ruben Dartt,13.2,88220,Consumer,New Mexico
+IP43078,LP001259,Max Jones,13.2,98115,Consumer,Washington
+IP43079,LP001263,Becky Martin,13.3,78207,Consumer,Texas
+IP43080,LP001264,Chad Sievert,13.2,90004,Consumer,California
+IP43081,LP001265,Jennifer Braxton,13.3,60623,Corporate,Illinois
+IP43082,LP001266,Shirley Jackson,13.3,77036,Consumer,Texas
+IP43083,LP001267,Jim Kriz,13.4,10009,Home Office,New York
+IP43084,LP001273,David Kendrick,13.3,62521,Corporate,Illinois
+IP43085,LP001275,Robert Marley,13.2,71203,Home Office,Louisiana
+IP43086,LP001279,Sally Knutson,13.4,6824,Consumer,Connecticut
+IP43087,LP001280,Frank Merwin,13.2,90032,Home Office,California
+IP43088,LP001282,Alice McCarthy,13.3,75051,Corporate,Texas
+IP43089,LP001289,Mark Packer,13.4,10035,Home Office,New York
+IP43090,LP001310,Mary Zewe,13.2,92374,Corporate,California
+IP43091,LP001316,Cassandra Brandow,13.4,45011,Consumer,Ohio
+IP43092,LP001318,Valerie Mitchum,13.4,7090,Home Office,New Jersey
+IP43093,LP001319,Fred Hopkins,13.4,19120,Corporate,Pennsylvania
+IP43094,LP001322,Maria Bertelson,13.4,44312,Consumer,Ohio
+IP43095,LP001325,Bruce Stewart,13.2,80219,Consumer,Colorado
+IP43096,LP001326,Logan Currie,13.3,75220,Consumer,Texas
+IP43097,LP001327,Heather Kirkland,13.2,37064,Corporate,Tennessee
+IP43098,LP001333,Laurel Elliston,13.2,90604,Consumer,California
+IP43099,LP001334,Joseph Holt,13.3,48601,Consumer,Michigan
+IP43100,LP001343,Michael Stewart,13.3,75220,Corporate,Texas
+IP43101,LP001345,Victoria Wilson,13.4,44256,Corporate,Ohio
+IP43102,LP001349,Jonathan Howell,13.2,90032,Consumer,California
+IP43103,LP001350,Joni Blumstein,13.4,43017,Consumer,Ohio
+IP43104,LP001356,David Smith,13.3,48227,Corporate,Michigan
+IP43105,LP001357,Valerie Dominguez,13.2,38401,Consumer,Tennessee
+IP43106,LP001367,Erin Ashbrook,13.2,28205,Corporate,North Carolina
+IP43107,LP001369,David Bremer,13.2,95051,Corporate,California
+IP43108,LP001370,Ken Lonsdale,13.3,60610,Consumer,Illinois
+IP43109,LP001379,Dianna Wilson,13.3,55044,Home Office,Minnesota
+IP43110,LP001384,Logan Haushalter,13.2,94109,Consumer,California
+IP43111,LP001385,Kelly Collister,13.2,92037,Consumer,California
+IP43112,LP001387,Delfina Latchford,13.4,10024,Consumer,New York
+IP43113,LP001391,Dan Reichenbach,13.3,60623,Corporate,Illinois
+IP43114,LP001392,Craig Carreira,13.4,10009,Consumer,New York
+IP43115,LP001398,Dorris liebe,13.3,77506,Corporate,Texas
+IP43116,LP001401,Sean Braxton,13.3,77036,Corporate,Texas
+IP43117,LP001404,Roy Collins,13.3,60610,Consumer,Illinois
+IP43118,LP001405,Alan Hwang,13.2,94513,Consumer,California
+IP43119,LP001421,Claudia Bergmann,13.2,27514,Corporate,North Carolina
+IP43120,LP001422,Christine Abelman,13.4,45231,Corporate,Ohio
+IP43121,LP001426,Kristen Hastings,13.2,94110,Corporate,California
+IP43122,LP001430,Barry Blumstein,13.2,90301,Corporate,California
+IP43123,LP001431,Andrew Gjertsen,13.4,19140,Corporate,Pennsylvania
+IP43124,LP001432,Jas O'Carroll,13.2,90004,Consumer,California
+IP43125,LP001439,Alan Haines,13.2,33319,Corporate,Florida
+IP43126,LP001443,Nick Zandusky,13.4,43229,Home Office,Ohio
+IP43127,LP001448,Kelly Lampkin,13.2,80906,Corporate,Colorado
+IP43128,LP001449,Alan Schoenberger,13.4,10024,Corporate,New York
+IP43129,LP001451,Corey Roper,13.4,8701,Home Office,New Jersey
+IP43130,LP001465,Shahid Hopkins,13.2,22204,Consumer,Virginia
+IP43131,LP001469,Ben Peterman,13.2,80004,Corporate,Colorado
+IP43132,LP001473,Thomas Seio,13.4,7601,Corporate,New Jersey
+IP43133,LP001478,Andy Gerbode,13.2,33710,Corporate,Florida
+IP43134,LP001482,Sung Pak,13.4,19143,Corporate,Pennsylvania
+IP43135,LP001487,Nathan Mautz,13.4,10024,Home Office,New York
+IP43136,LP001488,Frank Atkinson,13.2,90805,Corporate,California
+IP43137,LP001489,Grace Kelly,13.2,92345,Corporate,California
+IP43138,LP001491,Don Jones,13.2,37130,Corporate,Tennessee
+IP43139,LP001492,Patrick O'Brill,13.4,19143,Consumer,Pennsylvania
+IP43140,LP001493,John Lucas,13.4,19134,Consumer,Pennsylvania
+IP43141,LP001497,Doug Bickford,13.2,90045,Consumer,California
+IP43142,LP001498,Alyssa Crouse,13.2,94122,Corporate,California
+IP43143,LP001504,Clay Cheatham,13.2,94122,Consumer,California
+IP43144,LP001507,Tamara Dahlen,13.4,1852,Consumer,Massachusetts
+IP43145,LP001508,Adam Bellavance,13.4,10009,Home Office,New York
+IP43146,LP001514,Jeremy Lonsdale,13.4,10035,Consumer,New York
+IP43147,LP001516,Victoria Brennan,13.2,31907,Corporate,Georgia
+IP43148,LP001518,Katrina Willman,13.4,10009,Consumer,New York
+IP43149,LP001519,Julia Dunbar,13.2,94109,Consumer,California
+IP43150,LP001520,Michael Kennedy,13.4,6040,Corporate,Connecticut
+IP43151,LP001528,Guy Thornton,13.3,78550,Consumer,Texas
+IP43152,LP001529,Arthur Gainer,13.2,85705,Consumer,Arizona
+IP43153,LP001531,Muhammed MacIntyre,13.3,62301,Corporate,Illinois
+IP43154,LP001532,Allen Rosenblatt,13.4,2038,Corporate,Massachusetts
+IP43155,LP001535,Russell Applegate,13.3,77095,Consumer,Texas
+IP43156,LP001536,Alejandro Savely,13.2,94109,Corporate,California
+IP43157,LP001541,Laura Armstrong,13.3,48180,Corporate,Michigan
+IP43158,LP001543,Denny Ordway,13.2,33024,Consumer,Florida
+IP43159,LP001546,Dean Katz,13.4,19140,Corporate,Pennsylvania
+IP43160,LP001552,Nathan Gelder,13.4,45231,Consumer,Ohio
+IP43161,LP001560,Mike Vittorini,13.4,10009,Consumer,New York
+IP43162,LP001562,Jack Garza,13.2,98198,Consumer,Washington
+IP43163,LP001565,Bart Pistole,13.3,61604,Corporate,Illinois
+IP43164,LP001570,Victor Preis,13.2,89115,Home Office,Nevada
+IP43165,LP001572,Saphhira Shifley,13.4,2886,Corporate,Rhode Island
+IP43166,LP001574,Anna Gayman,13.3,77036,Consumer,Texas
+IP43167,LP001577,Luke Foster,13.2,33180,Consumer,Florida
+IP43168,LP001578,Roy Franzosisch,13.4,10024,Consumer,New York
+IP43169,LP001579,Keith Herrera,13.2,94110,Consumer,California
+IP43170,LP001580,Kimberly Carter,13.2,98105,Corporate,Washington
+IP43171,LP001581,Caroline Jumper,13.2,92646,Consumer,California
+IP43172,LP001585,Philip Brown,13.2,90004,Consumer,California
+IP43173,LP001586,Michael Paige,13.4,1841,Corporate,Massachusetts
+IP43174,LP001594,Natalie Fritzler,13.2,39212,Consumer,Mississippi
+IP43175,LP001603,Shirley Daniels,13.4,10801,Home Office,New York
+IP43176,LP001606,Ken Heidel,13.3,78207,Corporate,Texas
+IP43177,LP001608,Ross Baird,13.2,28052,Home Office,North Carolina
+IP43178,LP001610,Mike Kennedy,13.2,32216,Consumer,Florida
+IP43179,LP001616,Philisse Overcash,13.3,60623,Home Office,Illinois
+IP43180,LP001630,Brenda Bowman,13.3,77070,Corporate,Texas
+IP43181,LP001633,Troy Blackwell,13.3,47201,Consumer,Indiana
+IP43182,LP001634,Raymond Buch,13.4,13021,Consumer,New York
+IP43183,LP001636,Ed Braxton,13.4,44312,Corporate,Ohio
+IP43184,LP001637,Sanjit Chand,13.2,94521,Consumer,California
+IP43185,LP001639,Tanja Norvell,13.2,85023,Home Office,Arizona
+IP43186,LP001640,Joni Sundaresam,13.3,60068,Home Office,Illinois
+IP43187,LP001641,Maya Herman,13.4,11757,Corporate,New York
+IP43188,LP001643,Jeremy Pistek,13.2,94110,Consumer,California
+IP43189,LP001644,Jeremy Ellison,13.4,12180,Consumer,New York
+IP43190,LP001647,John Grady,13.4,10024,Corporate,New York
+IP43191,LP001653,Xylona Preis,13.2,92024,Consumer,California
+IP43192,LP001656,Erin Mull,13.4,10024,Consumer,New York
+IP43193,LP001657,Michelle Tran,13.2,90045,Home Office,California
+IP43194,LP001658,Sue Ann Reed,13.3,60610,Consumer,Illinois
+IP43195,LP001664,Carl Weiss,13.3,77340,Home Office,Texas
+IP43196,LP001665,Astrea Jones,13.4,14609,Consumer,New York
+IP43197,LP001666,Sonia Sunley,13.2,98115,Consumer,Washington
+IP43198,LP001669,Rose O'Brian,13.2,38109,Consumer,Tennessee
+IP43199,LP001671,Maribeth Dona,13.2,72701,Consumer,Arkansas
+IP43200,LP001673,Maribeth Yedwab,13.2,80134,Corporate,Colorado
+IP43201,LP001674,Christopher Martinez,13.2,30318,Consumer,Georgia
+IP43202,LP001677,Lynn Smith,13.3,64118,Consumer,Missouri
+IP43203,LP001682,Bradley Nguyen,13.2,90049,Consumer,California
+IP43204,LP001688,Dean Braden,13.3,77041,Consumer,Texas
+IP43205,LP001691,Matt Connell,13.3,48234,Corporate,Michigan
+IP43206,LP001692,Brian Dahlen,13.4,1841,Consumer,Massachusetts
+IP43207,LP001693,Patricia Hirasaki,13.2,33801,Home Office,Florida
+IP43208,LP001698,Mike Gockenbach,13.4,19134,Consumer,Pennsylvania
+IP43209,LP001699,Karen Bern,13.2,90036,Corporate,California
+IP43210,LP001702,Jasper Cacioppo,13.2,90032,Consumer,California
+IP43211,LP001708,Rob Lucas,13.2,36116,Consumer,Alabama
+IP43212,LP001711,Allen Armold,13.2,85204,Consumer,Arizona
+IP43213,LP001713,Emily Phan,13.3,60653,Consumer,Illinois
+IP43214,LP001715,Darren Koutras,13.2,42420,Consumer,Kentucky
+IP43215,LP001716,Bradley Drucker,13.3,54302,Consumer,Wisconsin
+IP43216,LP001720,Liz MacKendrick,13.4,45503,Consumer,Ohio
+IP43217,LP001722,Adrian Shami,13.4,10035,Home Office,New York
+IP43218,LP001726,Bill Donatelli,13.2,94110,Consumer,California
+IP43219,LP001732,Greg Tran,13.3,77070,Consumer,Texas
+IP43220,LP001734,Ashley Jarboe,13.2,28403,Consumer,North Carolina
+IP43221,LP001736,Olvera Toch,13.2,90045,Consumer,California
+IP43222,LP001743,Liz Pelletier,13.2,94110,Consumer,California
+IP43223,LP001744,Cynthia Arntzen,13.2,33614,Consumer,Florida
+IP43224,LP001749,Jeremy Farry,13.2,98105,Consumer,Washington
+IP43225,LP001750,Frank Preis,13.2,90008,Consumer,California
+IP43226,LP001751,Ellis Ballard,13.2,98105,Corporate,Washington
+IP43227,LP001754,Jennifer Ferguson,13.4,10024,Consumer,New York
+IP43228,LP001758,Sarah Foster,13.2,98270,Consumer,Washington
+IP43229,LP001760,Trudy Glocke,13.2,90805,Consumer,California
+IP43230,LP001761,Carlos Soltero,13.3,60610,Consumer,Illinois
+IP43231,LP001765,Charles Crestani,13.2,90004,Consumer,California
+IP43232,LP001768,Dianna Vittorini,13.2,80219,Consumer,Colorado
+IP43233,LP001770,Bruce Degenhardt,13.2,40475,Consumer,Kentucky
+IP43234,LP001776,Zuschuss Carroll,13.2,97301,Consumer,Oregon
+IP43235,LP001778,Melanie Seite,13.3,78041,Consumer,Texas
+IP43236,LP001784,Lena Radford,13.2,92024,Consumer,California
+IP43237,LP001786,Theone Pippenger,13.4,19134,Consumer,Pennsylvania
+IP43238,LP001788,Chloris Kastensmidt,13.4,19120,Consumer,Pennsylvania
+IP43239,LP001790,Alan Shonely,13.2,33614,Consumer,Florida
+IP43240,LP001792,Andrew Roberts,13.4,19134,Consumer,Pennsylvania
+IP43241,LP001798,Nona Balk,13.3,75217,Corporate,Texas
+IP43242,LP001800,Giulietta Dortch,13.4,19143,Corporate,Pennsylvania
+IP43243,LP001806,Clytie Kelty,13.4,43123,Consumer,Ohio
+IP43244,LP001807,Nat Gilpin,13.4,10011,Corporate,New York
+IP43245,LP001811,Christina Anderson,13.3,60610,Consumer,Illinois
+IP43246,LP001813,Sylvia Foulston,13.3,48126,Corporate,Michigan
+IP43247,LP001814,Meg O'Connel,13.4,10009,Home Office,New York
+IP43248,LP001819,Annie Thurman,13.2,98115,Consumer,Washington
+IP43249,LP001824,Fred McMath,13.2,80013,Consumer,Colorado
+IP43250,LP001825,Denny Joy,13.2,31088,Corporate,Georgia
+IP43251,LP001835,Max Engle,13.2,80013,Consumer,Colorado
+IP43252,LP001836,Justin Deggeller,13.3,55407,Corporate,Minnesota
+IP43253,LP001841,John Lee,13.2,92691,Consumer,California
+IP43254,LP001843,Sean Christensen,13.3,48307,Consumer,Michigan
+IP43255,LP001844,Chuck Clark,13.3,47201,Home Office,Indiana
+IP43256,LP001846,Anthony Rawles,13.2,98661,Corporate,Washington
+IP43257,LP001849,Steven Roelle,13.4,10024,Home Office,New York
+IP43258,LP001854,Craig Reiter,13.4,43229,Consumer,Ohio
+IP43259,LP001859,Eugene Hildebrand,13.3,60505,Home Office,Illinois
+IP43260,LP001864,Sibella Parks,13.4,10011,Corporate,New York
+IP43261,LP001865,Tiffany House,13.3,75081,Corporate,Texas
+IP43262,LP001868,Resi Polking,13.4,44105,Consumer,Ohio
+IP43263,LP001870,Rob Beeghly,13.3,47201,Consumer,Indiana
+IP43264,LP001871,Carol Darley,13.3,75701,Consumer,Texas
+IP43265,LP001872,Doug Jacobs,13.4,10024,Consumer,New York
+IP43266,LP001875,Grant Thornton,13.2,27217,Corporate,North Carolina
+IP43267,LP001877,Michael Chen,13.2,39212,Consumer,Mississippi
+IP43268,LP001882,Ralph Arnett,13.4,10035,Consumer,New York
+IP43269,LP001883,Naresj Patel,13.2,22980,Consumer,Virginia
+IP43270,LP001884,Alan Barnes,13.2,90036,Consumer,California
+IP43271,LP001888,Jesus Ocampo,13.4,19013,Home Office,Pennsylvania
+IP43272,LP001891,Jay Kimmel,13.2,90805,Consumer,California
+IP43273,LP001892,Brad Norvell,13.2,27511,Corporate,North Carolina
+IP43274,LP001894,David Philippe,13.4,10035,Consumer,New York
+IP43275,LP001896,Tracy Hopkins,13.4,10035,Home Office,New York
+IP43276,LP001900,Arthur Prichep,13.2,32137,Consumer,Florida
+IP43277,LP001903,Roland Schwarz,13.4,10550,Corporate,New York
+IP43278,LP001904,Seth Vernon,13.4,19901,Consumer,Delaware
+IP43279,LP001907,Christine Kargatis,13.2,84057,Home Office,Utah
+IP43280,LP001908,Ross DeVincentis,13.2,90045,Home Office,California
+IP43281,LP001910,Mathew Reese,13.4,19140,Home Office,Pennsylvania
+IP43282,LP001914,Steve Chapman,13.2,33012,Corporate,Florida
+IP43283,LP001915,Jay Fein,13.3,78745,Consumer,Texas
+IP43284,LP001917,Emily Grady,13.4,11572,Consumer,New York
+IP43285,LP001922,Darrin Sayre,13.2,98115,Home Office,Washington
+IP43286,LP001924,Phillina Ober,13.3,60540,Home Office,Illinois
+IP43287,LP001925,Sung Shariari,13.3,75220,Consumer,Texas
+IP43288,LP001926,Peter Buhler,13.3,60201,Consumer,Illinois
+IP43289,LP001931,Roland Fjeld,13.3,48183,Consumer,Michigan
+IP43290,LP001935,Yoseph Carroll,13.2,94110,Corporate,California
+IP43291,LP001936,Debra Catini,13.3,55016,Consumer,Minnesota
+IP43292,LP001938,Christine Phan,13.4,10009,Corporate,New York
+IP43293,LP001940,Barry Franzosisch,13.3,54302,Corporate,Wisconsin
+IP43294,LP001945,Lisa Hazard,13.4,43229,Consumer,Ohio
+IP43295,LP001947,Chris Selesnick,13.2,71111,Corporate,Louisiana
+IP43296,LP001949,Anthony Johnson,13.2,33710,Corporate,Florida
+IP43297,LP001953,Benjamin Venier,13.3,50315,Corporate,Iowa
+IP43298,LP001954,Dan Lawera,13.4,45231,Consumer,Ohio
+IP43299,LP001955,Bryan Mills,13.4,43229,Consumer,Ohio
+IP43300,LP001963,Liz Thompson,13.2,93534,Consumer,California
+IP43301,LP001964,Joe Kamberova,13.2,28806,Consumer,North Carolina
+IP43302,LP001972,Erica Smith,13.2,94110,Consumer,California
+IP43303,LP001974,Rick Hansen,13.3,55901,Consumer,Minnesota
+IP43304,LP001977,Carlos Daly,13.2,92530,Consumer,California
+IP43305,LP001978,Helen Wasserman,13.2,92105,Corporate,California
+IP43306,LP001990,Mike Caudle,13.2,71203,Corporate,Louisiana
+IP43307,LP001993,Gary McGarr,13.2,94122,Consumer,California
+IP43308,LP001994,Pauline Johnson,13.2,92704,Consumer,California
+IP43309,LP001996,Bart Watters,13.3,53209,Corporate,Wisconsin
+IP43310,LP001998,Toby Ritter,13.4,7109,Consumer,New Jersey
+IP43311,LP002002,Patrick Gardner,13.2,94110,Consumer,California
+IP43312,LP002004,James Lanier,13.2,38401,Home Office,Tennessee
+IP43313,LP002006,Brian Moss,13.4,10035,Corporate,New York
+IP43314,LP002008,Eudokia Martin,13.2,90036,Corporate,California
+IP43315,LP002024,Art Foster,13.2,40214,Consumer,Kentucky
+IP43316,LP002031,Guy Armstrong,13.4,44052,Consumer,Ohio
+IP43317,LP002035,Cyma Kinney,13.4,7036,Corporate,New Jersey
+IP43318,LP002036,Dave Poirier,13.2,93905,Corporate,California
+IP43319,LP002043,Berenike Kampe,13.4,10035,Consumer,New York
+IP43320,LP002050,Sanjit Jacobs,13.4,8901,Home Office,New Jersey
+IP43321,LP002051,Chuck Magee,13.2,94122,Consumer,California
+IP43322,LP002053,Anthony Jacobs,13.2,22153,Corporate,Virginia
+IP43323,LP002054,Linda Southworth,13.4,19140,Corporate,Pennsylvania
+IP43324,LP002055,Guy Phonely,13.4,17602,Corporate,Pennsylvania
+IP43325,LP002065,Paul Knutson,13.4,19143,Home Office,Pennsylvania
+IP43326,LP002067,Sally Matthias,13.4,10009,Consumer,New York
+IP43327,LP002068,Anthony Garverick,13.4,19120,Home Office,Pennsylvania
+IP43328,LP002082,Peter McVee,13.3,48227,Home Office,Michigan
+IP43329,LP002086,Lauren Leatherbury,13.4,14609,Consumer,New York
+IP43330,LP002087,Jill Stevenson,13.2,90045,Corporate,California
+IP43331,LP002097,Ed Ludwig,13.4,21044,Home Office,Maryland
+IP43332,LP002098,Pamela Coakley,13.2,94122,Corporate,California
+IP43333,LP002100,Hunter Lopez,13.3,77095,Consumer,Texas
+IP43334,LP002101,Maribeth Schnelling,13.3,48227,Consumer,Michigan
+IP43335,LP002103,George Bell,13.4,13021,Corporate,New York
+IP43336,LP002106,Justin Ritter,13.4,45503,Corporate,Ohio
+IP43337,LP002110,Bill Eplett,13.3,49201,Home Office,Michigan
+IP43338,LP002112,Sample Company A,13.4,6360,Home Office,Connecticut
+IP43339,LP002113,Rob Williams,13.3,75220,Corporate,Texas
+IP43340,LP002114,Sanjit Engle,13.4,10009,Consumer,New York
+IP43341,LP002115,Adam Hart,13.4,10011,Corporate,New York
+IP43342,LP002116,Jessica Myrick,13.4,19143,Consumer,Pennsylvania
+IP43343,LP002119,Joel Jenkins,13.2,22153,Home Office,Virginia
+IP43344,LP002126,Ralph Kennedy,13.4,19140,Consumer,Pennsylvania
+IP43345,LP002128,Catherine Glotzbach,13.4,19120,Home Office,Pennsylvania
+IP43346,LP002129,Rachel Payne,13.2,92503,Corporate,California
+IP43347,LP002130,Karen Carlisle,13.2,94110,Corporate,California
+IP43348,LP002131,Katherine Hughes,13.4,19143,Consumer,Pennsylvania
+IP43349,LP002137,Greg Hansen,13.3,78664,Consumer,Texas
+IP43350,LP002138,Scott Williamson,13.2,39212,Consumer,Mississippi
+IP43351,LP002139,Joseph Airdo,13.2,85023,Consumer,Arizona
+IP43352,LP002140,Daniel Lacy,13.2,92054,Consumer,California
+IP43353,LP002141,Lindsay Williams,13.2,94110,Corporate,California
+IP43354,LP002142,Thomas Brumley,13.2,72701,Home Office,Arkansas
+IP43355,LP002143,Bryan Spruell,13.4,10011,Home Office,New York
+IP43356,LP002144,Robert Waldorf,13.2,28403,Consumer,North Carolina
+IP43357,LP002149,Tracy Zic,13.2,80027,Consumer,Colorado
+IP43358,LP002151,Ann Steele,13.3,77506,Home Office,Texas
+IP43359,LP002158,Toby Swindell,13.3,77041,Consumer,Texas
+IP43360,LP002160,Sara Luxemburg,13.2,32216,Home Office,Florida
+IP43361,LP002161,Mitch Willingham,13.2,23464,Corporate,Virginia
+IP43362,LP002170,Rob Dowd,13.2,42420,Consumer,Kentucky
+IP43363,LP002175,Ryan Akin,13.2,92563,Consumer,California
+IP43364,LP002178,Meg Tillman,13.2,85254,Consumer,Arizona
+IP43365,LP002180,Vivek Gonzalez,13.2,92037,Consumer,California
+IP43366,LP002181,John Stevenson,13.2,98103,Consumer,Washington
+IP43367,LP002187,Kalyca Meade,13.4,10011,Corporate,New York
+IP43368,LP002188,Hallie Redmond,13.2,90045,Home Office,California
+IP43369,LP002190,Deanra Eno,13.4,45503,Home Office,Ohio
+IP43370,LP002191,Allen Goldenen,13.4,45231,Consumer,Ohio
+IP43371,LP002194,Jennifer Jackson,13.2,90004,Consumer,California
+IP43372,LP002197,Jennifer Halladay,13.2,27217,Consumer,North Carolina
+IP43373,LP002201,Robert Dilbeck,13.3,63376,Home Office,Missouri
+IP43374,LP002205,Mary O'Rourke,13.4,10035,Consumer,New York
+IP43375,LP002209,Noel Staavos,13.3,60610,Corporate,Illinois
+IP43376,LP002211,Deirdre Greer,13.4,19134,Corporate,Pennsylvania
+IP43377,LP002219,Nicole Fjeld,13.4,10009,Home Office,New York
+IP43378,LP002223,Matthew Grinstein,13.4,19143,Home Office,Pennsylvania
+IP43379,LP002224,Theresa Swint,13.4,43615,Corporate,Ohio
+IP43380,LP002225,Brian DeCherney,13.2,94122,Consumer,California
+IP43381,LP002226,Charles McCrossin,13.3,78521,Consumer,Texas
+IP43382,LP002229,Skye Norling,13.2,90008,Home Office,California
+IP43383,LP002231,Erica Hernandez,13.2,80219,Home Office,Colorado
+IP43384,LP002234,Frank Olsen,13.4,10035,Consumer,New York
+IP43385,LP002236,Maurice Satty,13.2,85204,Consumer,Arizona
+IP43386,LP002237,Chad Cunningham,13.3,47201,Home Office,Indiana
+IP43387,LP002239,Don Weiss,13.2,98105,Consumer,Washington
+IP43388,LP002243,Bill Tyler,13.3,48227,Corporate,Michigan
+IP43389,LP002244,Craig Yedwab,13.2,94601,Corporate,California
+IP43390,LP002250,Brad Thomas,13.4,20735,Home Office,Maryland
+IP43391,LP002255,Penelope Sewall,13.2,28205,Home Office,North Carolina
+IP43392,LP002262,Paul Van Hugh,13.2,94122,Home Office,California
+IP43393,LP002263,Neoma Murray,13.2,92503,Consumer,California
+IP43394,LP002265,Dionis Lloyd,13.2,94110,Corporate,California
+IP43395,LP002266,Christine Sundaresam,13.2,30076,Consumer,Georgia
+IP43396,LP002272,Frank Hawley,13.3,46350,Corporate,Indiana
+IP43397,LP002277,Nat Carroll,13.3,48911,Consumer,Michigan
+IP43398,LP002281,Alex Avila,13.3,55407,Consumer,Minnesota
+IP43399,LP002284,Larry Tron,13.2,92025,Consumer,California
+IP43400,LP002287,Anne Pryor,13.4,10035,Home Office,New York
+IP43401,LP002288,Paul MacIntyre,13.3,49201,Consumer,Michigan
+IP43402,LP002296,Alyssa Tate,13.2,90004,Home Office,California
+IP43403,LP002297,Cathy Armstrong,13.3,77070,Home Office,Texas
+IP43404,LP002300,Harold Ryan,13.2,98103,Corporate,Washington
+IP43405,LP002301,Bradley Talbott,13.2,90036,Home Office,California
+IP43406,LP002305,Larry Hughes,13.2,28205,Consumer,North Carolina
+IP43407,LP002308,Steven Ward,13.4,10009,Corporate,New York
+IP43408,LP002314,Stefania Perrino,13.4,19134,Corporate,Pennsylvania
+IP43409,LP002315,Ben Ferrer,13.2,90036,Home Office,California
+IP43410,LP002317,Kean Thornton,13.4,14215,Consumer,New York
+IP43411,LP002318,Brooke Gillingham,13.4,45231,Corporate,Ohio
+IP43412,LP002319,Greg Matthias,13.2,98105,Consumer,Washington
+IP43413,LP002328,Eva Jacobs,13.2,39503,Consumer,Mississippi
+IP43414,LP002332,Nora Preis,13.2,93727,Consumer,California
+IP43415,LP002335,Mick Hernandez,13.4,19013,Home Office,Pennsylvania
+IP43416,LP002337,Jocasta Rupert,13.2,32216,Consumer,Florida
+IP43417,LP002341,Suzanne McNair,13.2,27834,Corporate,North Carolina
+IP43418,LP002342,Chris Cortes,13.3,46350,Consumer,Indiana
+IP43419,LP002345,Phillip Flathmann,13.2,94122,Consumer,California
+IP43420,LP002347,Dan Campbell,13.2,35630,Consumer,Alabama
+IP43421,LP002348,Bryan Davis,13.3,77070,Consumer,Texas
+IP43422,LP002357,Gene McClure,13.4,2908,Consumer,Rhode Island
+IP43423,LP002361,Todd Boyes,13.4,10009,Corporate,New York
+IP43424,LP002362,Justin Hirsh,13.2,81001,Consumer,Colorado
+IP43425,LP002364,Erica Bern,13.2,94533,Corporate,California
+IP43426,LP002366,Quincy Jones,13.3,55106,Corporate,Minnesota
+IP43427,LP002367,Tracy Collins,13.2,22204,Home Office,Virginia
+IP43428,LP002368,Chuck Sachs,13.2,31907,Consumer,Georgia
+IP43429,LP002369,Henry Goldwyn,13.2,90032,Corporate,California
+IP43430,LP002370,Laurel Workman,13.2,32725,Corporate,Florida
+IP43431,LP002377,Matt Collins,13.4,45231,Consumer,Ohio
+IP43432,LP002379,Liz Preis,13.2,42071,Consumer,Kentucky
+IP43433,LP002386,Evan Bailliet,13.2,28403,Consumer,North Carolina
+IP43434,LP002387,George Zrebassa,13.4,1841,Corporate,Massachusetts
+IP43435,LP002390,Cathy Prescott,13.4,6360,Corporate,Connecticut
+IP43436,LP002393,Frank Gastineau,13.2,94110,Home Office,California
+IP43437,LP002398,Lisa DeCherney,13.2,94109,Consumer,California
+IP43438,LP002401,Alejandro Ballentine,13.4,44052,Home Office,Ohio
+IP43439,LP002403,Michael Nguyen,13.3,75220,Consumer,Texas
+IP43440,LP002407,Jim Radford,13.4,6457,Consumer,Connecticut
+IP43441,LP002408,Jamie Frazer,13.2,90008,Consumer,California
+IP43442,LP002409,Chad McGuire,13.4,10011,Consumer,New York
+IP43443,LP002418,Aaron Smayling,13.2,28540,Corporate,North Carolina
+IP43444,LP002422,Beth Paige,13.3,60201,Consumer,Illinois
+IP43445,LP002424,Natalie DeCherney,13.2,40214,Consumer,Kentucky
+IP43446,LP002429,Larry Blacks,13.3,76106,Consumer,Texas
+IP43447,LP002434,Kean Takahito,13.2,90049,Consumer,California
+IP43448,LP002435,Harry Marie,13.4,19120,Corporate,Pennsylvania
+IP43449,LP002443,Ann Blume,13.2,85705,Corporate,Arizona
+IP43450,LP002444,Sam Zeldin,13.2,90660,Home Office,California
+IP43451,LP002446,Michael Granlund,13.4,20735,Home Office,Maryland
+IP43452,LP002447,Julie Kriz,13.3,60505,Home Office,Illinois
+IP43453,LP002448,Paul Prost,13.2,30080,Home Office,Georgia
+IP43454,LP002449,Yana Sorensen,13.2,27217,Corporate,North Carolina
+IP43455,LP002453,Katherine Murray,13.2,24153,Home Office,Virginia
+IP43456,LP002455,Adrian Barton,13.2,85023,Consumer,Arizona
+IP43457,LP002459,Helen Abelman,13.4,10024,Consumer,New York
+IP43458,LP002467,Beth Thompson,13.2,92627,Home Office,California
+IP43459,LP002472,Stuart Van,13.3,77041,Corporate,Texas
+IP43460,LP002473,Rick Wilson,13.2,85204,Corporate,Arizona
+IP43461,LP002478,Damala Kotsonis,13.2,93905,Corporate,California
+IP43462,LP002484,Shui Tom,13.4,44134,Consumer,Ohio
+IP43463,LP002487,Michael Moore,13.2,94110,Consumer,California
+IP43464,LP002489,Pauline Webber,13.2,40475,Corporate,Kentucky
+IP43465,LP002493,Shaun Chance,13.2,80013,Corporate,Colorado
+IP43466,LP002494,Thais Sissman,13.2,85023,Consumer,Arizona
+IP43467,LP002500,Mark Cousins,13.2,36608,Corporate,Alabama
+IP43468,LP002501,Maria Etezadi,13.2,31907,Home Office,Georgia
+IP43469,LP002502,Nicole Hansen,13.3,75061,Corporate,Texas
+IP43470,LP002505,Mick Brown,13.4,8360,Consumer,New Jersey
+IP43471,LP002515,Keith Dawkins,13.4,10009,Corporate,New York
+IP43472,LP002517,Katherine Nockton,13.2,90004,Corporate,California
+IP43473,LP002519,Nora Pelletier,13.4,14304,Home Office,New York
+IP43474,LP002522,Cindy Stewart,13.2,27360,Consumer,North Carolina
+IP43475,LP002524,Maxwell Schwartz,13.4,10035,Consumer,New York
+IP43476,LP002527,Corinna Mitchell,13.2,90008,Home Office,California
+IP43477,LP002529,Corey-Lock,13.4,19143,Consumer,Pennsylvania
+IP43478,LP002530,Todd Sumrall,13.4,10035,Corporate,New York
+IP43479,LP002531,Jane Waco,13.2,98661,Corporate,Washington
+IP43480,LP002533,John Dryer,13.3,75019,Consumer,Texas
+IP43481,LP002534,Pauline Chand,13.2,90004,Home Office,California
+IP43482,LP002536,Andy Reiter,13.4,10024,Consumer,New York
+IP43483,LP002537,Arianne Irving,13.4,19120,Consumer,Pennsylvania
+IP43484,LP002541,Tom Boeckenhauer,13.2,98105,Consumer,Washington
+IP43485,LP002543,Paul Lucas,13.3,60610,Home Office,Illinois
+IP43486,LP002544,Gary Hwang,13.2,85705,Consumer,Arizona
+IP43487,LP002545,Mike Pelletier,13.2,92677,Home Office,California
+IP43488,LP002547,Jim Mitchum,13.4,8302,Corporate,New Jersey
+IP43489,LP002555,Carl Ludwig,13.4,2149,Consumer,Massachusetts
+IP43490,LP002556,Deborah Brumfield,13.2,92024,Home Office,California
+IP43491,LP002560,Ivan Gibson,13.2,92024,Consumer,California
+IP43492,LP002562,Bobby Odegard,13.2,40475,Consumer,Kentucky
+IP43493,LP002571,Aimee Bixby,13.4,11561,Consumer,New York
+IP43494,LP002582,Julia West,13.4,19140,Consumer,Pennsylvania
+IP43495,LP002585,Edward Becker,13.2,98103,Corporate,Washington
+IP43496,LP002586,Sheri Gordon,13.4,10011,Consumer,New York
+IP43497,LP002587,Charlotte Melton,13.4,19134,Consumer,Pennsylvania
+IP43498,LP002588,Anthony Witt,13.3,75002,Consumer,Texas
+IP43499,LP002600,Mick Crebagga,13.3,79907,Consumer,Texas
+IP43500,LP002602,Tonja Turnell,13.3,60505,Home Office,Illinois
+IP43501,LP002603,Vivek Grady,13.2,23464,Corporate,Virginia
+IP43502,LP002606,Muhammed Yedwab,13.3,76051,Corporate,Texas
+IP43503,LP002615,Rick Duston,13.2,98502,Consumer,Washington
+IP43504,LP002618,Dennis Pardue,13.3,61604,Home Office,Illinois
+IP43505,LP002619,Marina Lichtenstein,13.2,90008,Corporate,California
+IP43506,LP002622,Jenna Caffey,13.2,98031,Consumer,Washington
+IP43507,LP002624,James Galang,13.2,90049,Consumer,California
+IP43508,LP002625,Marc Crier,13.2,70506,Consumer,Louisiana
+IP43509,LP002626,Natalie Webber,13.2,97224,Consumer,Oregon
+IP43510,LP002634,Toby Braunhardt,13.4,20016,Consumer,District of Columbia
+IP43511,LP002637,Bill Stewart,13.3,60076,Corporate,Illinois
+IP43512,LP002640,Hilary Holden,13.2,94110,Corporate,California
+IP43513,LP002643,Christina DeMoss,13.2,98105,Consumer,Washington
+IP43514,LP002648,Thea Hendricks,13.2,90045,Consumer,California
+IP43515,LP002652,Michelle Moray,13.2,98115,Consumer,Washington
+IP43516,LP002659,Neola Schneider,13.3,75217,Consumer,Texas
+IP43517,LP002670,Robert Barroso,13.2,89031,Corporate,Nevada
+IP43518,LP002682,Shaun Weien,13.2,23434,Consumer,Virginia
+IP43519,LP002683,Eric Barreto,13.2,94110,Consumer,California
+IP43520,LP002684,Pamela Stobb,13.2,90008,Consumer,California
+IP43521,LP002689,Herbert Flentye,13.3,46203,Consumer,Indiana
+IP43522,LP002690,Henia Zydlo,13.4,43229,Consumer,Ohio
+IP43523,LP002692,Cynthia Delaney,13.2,92037,Home Office,California
+IP43524,LP002693,Jamie Kunitz,13.2,94122,Consumer,California
+IP43525,LP002697,Filia McAdams,13.4,43017,Corporate,Ohio
+IP43526,LP002699,Emily Ducich,13.2,92037,Home Office,California
+IP43527,LP002705,Dianna Arnett,13.3,77095,Home Office,Texas
+IP43528,LP002706,Joni Wasserman,13.2,94601,Consumer,California
+IP43529,LP002714,Raymond Messe,13.3,77095,Consumer,Texas
+IP43530,LP002716,Max Ludwig,13.2,23434,Home Office,Virginia
+IP43531,LP002717,Craig Carroll,13.2,27405,Consumer,North Carolina
+IP43532,LP002720,Jim Epp,13.3,53209,Corporate,Wisconsin
+IP43533,LP002723,Roy Phan,13.3,53142,Corporate,Wisconsin
+IP43534,LP002729,Thomas Boland,13.3,77041,Corporate,Texas
+IP43535,LP002731,Brad Eason,13.3,66062,Home Office,Kansas
+IP43536,LP002732,Jill Fjeld,13.3,75081,Consumer,Texas
+IP43537,LP002734,Phillip Breyer,13.3,74133,Corporate,Oklahoma
+IP43538,LP002738,Brian Thompson,13.4,43055,Consumer,Ohio
+IP43539,LP002739,Janet Lee,13.3,60623,Consumer,Illinois
+IP43540,LP002740,Cathy Hwang,13.2,27604,Home Office,North Carolina
+IP43541,LP002741,Neil Ducich,13.2,31204,Corporate,Georgia
+IP43542,LP002743,Barbara Fisher,13.2,28205,Corporate,North Carolina
+IP43543,LP002753,Katharine Harms,13.2,42104,Corporate,Kentucky
+IP43544,LP002755,Giulietta Weimer,13.2,98115,Consumer,Washington
+IP43545,LP002757,Noah Childs,13.2,80013,Corporate,Colorado
+IP43546,LP002767,Michelle Ellison,13.2,94122,Corporate,California
+IP43547,LP002768,Benjamin Patterson,13.2,99207,Consumer,Washington
+IP43548,LP002772,John Castell,13.3,78207,Consumer,Texas
+IP43549,LP002776,Adam Shillingsburg,13.2,22901,Consumer,Virginia
+IP43550,LP002777,Amy Cox,13.3,55407,Consumer,Minnesota
+IP43551,LP002778,Michael Dominguez,13.3,46203,Corporate,Indiana
+IP43552,LP002784,Duane Benoit,13.4,11572,Consumer,New York
+IP43553,LP002785,Erica Hackney,13.2,30076,Consumer,Georgia
+IP43554,LP002788,Edward Hooks,13.4,13601,Corporate,New York
+IP43555,LP002789,Scot Coram,13.3,76017,Corporate,Texas
+IP43556,LP002792,Joe Elijah,13.2,80020,Consumer,Colorado
+IP43557,LP002794,Ann Chong,13.4,10009,Corporate,New York
+IP43558,LP002795,Joy Daniels,13.3,60610,Consumer,Illinois
+IP43559,LP002798,Christy Brittain,13.4,43229,Consumer,Ohio
+IP43560,LP002804,Joy Smith,13.3,77036,Consumer,Texas
+IP43561,LP002807,Luke Weiss,13.2,91104,Consumer,California
+IP43562,LP002813,Stuart Calhoun,13.3,77041,Consumer,Texas
+IP43563,LP002820,Anne McFarland,13.2,36830,Consumer,Alabama
+IP43564,LP002821,Rick Huthwaite,13.4,2908,Home Office,Rhode Island
+IP43565,LP002832,Carol Triggs,13.3,55901,Consumer,Minnesota
+IP43566,LP002833,Matt Collister,13.4,8861,Corporate,New Jersey
+IP43567,LP002836,Corey Catlett,13.4,19134,Corporate,Pennsylvania
+IP43568,LP002837,Kelly Andreada,13.2,91761,Consumer,California
+IP43569,LP002840,Tamara Chand,13.2,98105,Corporate,Washington
+IP43570,LP002841,Bart Folk,13.4,21215,Consumer,Maryland
+IP43571,LP002842,Magdelene Morse,13.4,19805,Consumer,Delaware
+IP43572,LP002847,Adrian Hane,13.2,85705,Home Office,Arizona
+IP43573,LP002855,Ben Wallace,13.2,33437,Consumer,Florida
+IP43574,LP002862,Scot Wooten,13.2,95207,Consumer,California
+IP43575,LP002863,Brian Stugart,13.4,19143,Consumer,Pennsylvania
+IP43576,LP002868,Randy Ferguson,13.4,3820,Corporate,New Hampshire
+IP43577,LP002872,William Brown,13.4,19134,Consumer,Pennsylvania
+IP43578,LP002874,Trudy Brown,13.3,75051,Consumer,Texas
+IP43579,LP002877,Art Ferguson,13.3,77840,Consumer,Texas
+IP43580,LP002888,Richard Bierner,13.3,63116,Consumer,Missouri
+IP43581,LP002892,Karen Ferguson,13.2,95336,Home Office,California
+IP43582,LP002893,John Huston,13.4,44240,Consumer,Ohio
+IP43583,LP002894,Ivan Liston,13.2,94122,Consumer,California
+IP43584,LP002898,Patrick Bzostek,13.2,84106,Home Office,Utah
+IP43585,LP002911,Rob Haberlin,13.2,35810,Consumer,Alabama
+IP43586,LP002912,Arthur Wiediger,13.3,60505,Home Office,Illinois
+IP43587,LP002916,Maris LaWare,13.4,6824,Consumer,Connecticut
+IP43588,LP002917,Dorothy Badders,13.2,32216,Corporate,Florida
+IP43589,LP002925,Matt Hagelstein,13.2,94110,Corporate,California
+IP43590,LP002926,Dennis Kane,13.4,43302,Consumer,Ohio
+IP43591,LP002928,Bobby Trafton,13.2,80122,Consumer,Colorado
+IP43592,LP002931,Denny Blanton,13.3,46350,Consumer,Indiana
+IP43593,LP002933,Toby Gnade,13.2,90049,Consumer,California
+IP43594,LP002936,Barry Franz,13.2,91104,Home Office,California
+IP43595,LP002938,Justin MacKendrick,13.2,90004,Consumer,California
+IP43596,LP002940,Maria Zettner,13.2,92024,Home Office,California
+IP43597,LP002941,Mitch Webber,13.4,10035,Consumer,New York
+IP43598,LP002943,Mark Van Huff,13.2,22204,Consumer,Virginia
+IP43599,LP002945,Sean Miller,13.2,28110,Home Office,North Carolina
+IP43600,LP002948,Tom Prescott,13.2,98115,Consumer,Washington
+IP43601,LP002949,Jim Karlsson,13.2,98115,Consumer,Washington
+IP43602,LP002950,Patrick Jones,13.2,37130,Corporate,Tennessee
+IP43603,LP002953,Ricardo Sperren,13.2,98115,Corporate,Washington
+IP43604,LP002958,Susan Vittorini,13.4,10009,Consumer,New York
+IP43605,LP002959,Becky Castell,13.2,85345,Home Office,Arizona
+IP43606,LP002960,Elizabeth Moffitt,13.3,57103,Corporate,South Dakota
+IP43607,LP002961,Brendan Murry,13.4,10035,Corporate,New York
+IP43608,LP002964,Kristina Nunn,13.2,80525,Home Office,Colorado
+IP43609,LP002974,Kelly Williams,13.2,37042,Consumer,Tennessee
+IP43610,LP002978,Scott Cohen,13.2,94122,Corporate,California
+IP43611,LP002979,Christina VanderZanden,13.2,93727,Consumer,California
+IP43612,LP002983,Speros Goranitis,13.4,10009,Consumer,New York
+IP43613,LP002984,Tamara Manning,13.2,94122,Consumer,California
+IP43614,LP002990,Eleni McCrary,13.2,90036,Corporate,California

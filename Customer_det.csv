@@ -1,0 +1,615 @@
+Customer ID,Customer_name,Gender,Age,Married,Education,Self_Employed,Loan_Id,Region_id
+IP43001,Claire Gute,Male,50,No,Graduate,No,LP001002,13.2
+IP43002,Darrin Van Huff,Male,66,Yes,Graduate,No,LP001003,13.2
+IP43003,Sean O'Donnell,Male,20,Yes,Graduate,Yes,LP001005,13.2
+IP43004,Brosina Hoffman,Male,46,Yes,Not Graduate,No,LP001006,13.2
+IP43005,Andrew Allen,Male,18,No,Graduate,No,LP001008,13.2
+IP43006,Irene Maddox,Male,66,Yes,Graduate,Yes,LP001011,13.2
+IP43007,Harold Pawlan,Male,67,Yes,Not Graduate,No,LP001013,13.3
+IP43008,Pete Kriz,Male,41,Yes,Graduate,No,LP001014,13.3
+IP43009,Alejandro Grove,Male,34,Yes,Graduate,No,LP001018,13.2
+IP43010,Zuschuss Donatelli,Male,21,Yes,Graduate,No,LP001020,13.2
+IP43011,Ken Black,Male,48,Yes,Graduate,No,LP001024,13.3
+IP43012,Sandra Flanagan,Male,19,Yes,Graduate,Null,LP001027,13.4
+IP43013,Emily Burns,Male,28,Yes,Graduate,No,LP001028,13.2
+IP43014,Eric Hoffmann,Male,46,No,Graduate,No,LP001029,13.2
+IP43015,Tracy Blumstein,Male,31,Yes,Graduate,No,LP001030,13.4
+IP43016,Matt Abelman,Male,51,No,Graduate,No,LP001032,13.3
+IP43017,Gene Hale,Male,20,No,Not Graduate,No,LP001034,13.3
+IP43018,Steve Nguyen,Female,27,No,Graduate,No,LP001036,13.3
+IP43019,Linda Cazamias,Male,64,Yes,Not Graduate,No,LP001038,13.3
+IP43020,Ruben Ausman,Male,66,Yes,Graduate,Null,LP001041,13.2
+IP43021,Erin Smith,Male,40,Yes,Not Graduate,No,LP001043,13.2
+IP43022,Odella Nelson,Male,23,Yes,Graduate,No,LP001046,13.3
+IP43023,Patrick O'Donnell,Male,34,Yes,Not Graduate,No,LP001047,13.3
+IP43024,Lena Hernandez,Male,69,Yes,Not Graduate,No,LP001050,13.4
+IP43025,Darren Powers,Male,31,Yes,Graduate,Null,LP001052,13.3
+IP43026,Janet Molinari,Male,45,Yes,Graduate,Yes,LP001066,13.4
+IP43027,Ted Butterfield,Male,59,Yes,Graduate,No,LP001068,13.4
+IP43028,Kunst Miller,Male,35,Yes,Not Graduate,No,LP001073,13.2
+IP43029,Paul Stevenson,Male,25,No,Not Graduate,No,LP001086,13.3
+IP43030,Brendan Sweed,Female,29,No,Graduate,Null,LP001087,13.2
+IP43031,Karen Daniels,Male,18,Yes,Graduate,Null,LP001091,13.2
+IP43032,Henry MacAllister,Male,42,No,Graduate,No,LP001095,13.4
+IP43033,Joel Eaton,Male,56,No,Graduate,Yes,LP001097,13.2
+IP43034,Ken Brennan,Male,33,Yes,Graduate,No,LP001098,13.3
+IP43035,Stewart Carmichael,Male,64,No,Graduate,No,LP001100,13.2
+IP43036,Duane Noonan,Male,64,Yes,Graduate,No,LP001106,13.2
+IP43037,Julie Creighton,Male,33,Yes,Graduate,No,LP001109,13.2
+IP43038,Christopher Schild,Female,70,Yes,Graduate,No,LP001112,13.3
+IP43039,Paul Gonzalez,Male,63,No,Graduate,No,LP001114,13.3
+IP43040,Gary Mitchum,Male,35,No,Not Graduate,No,LP001116,13.3
+IP43041,Jim Sink,Male,33,No,Graduate,No,LP001119,13.2
+IP43042,Karl Braun,Male,56,No,Graduate,No,LP001120,13.3
+IP43043,Roger Barcio,Male,18,Yes,Graduate,No,LP001123,13.2
+IP43044,Parhena Norris,Male,64,Yes,Graduate,No,LP001131,13.4
+IP43045,Katherine Ducich,Male,63,Yes,Not Graduate,Yes,LP001136,13.2
+IP43046,Elpida Rittenbach,Female,62,No,Graduate,No,LP001137,13.3
+IP43047,Rick Bensley,Male,31,Yes,Graduate,No,LP001138,13.3
+IP43048,Gary Zandusky,Male,55,Yes,Graduate,No,LP001144,13.3
+IP43049,Lena Cacioppo,Female,36,Yes,Graduate,No,LP001146,13.2
+IP43050,Janet Martin,Female,34,No,Graduate,No,LP001151,13.2
+IP43051,Pete Armstrong,Female,24,Yes,Not Graduate,No,LP001155,13.3
+IP43052,Cynthia Voltz,Female,51,No,Graduate,No,LP001157,13.4
+IP43053,Clay Ludtke,Female,28,No,Graduate,No,LP001164,13.3
+IP43054,Ryan Crowe,Male,52,Yes,Graduate,No,LP001179,13.4
+IP43055,Dave Kipp,Female,30,Yes,Graduate,Yes,LP001186,13.2
+IP43056,Greg Guthrie,Male,33,Yes,Graduate,No,LP001194,13.2
+IP43057,Steven Cartwright,Male,66,Yes,Graduate,No,LP001195,13.4
+IP43058,Alan Dominguez,Male,62,Yes,Graduate,No,LP001197,13.3
+IP43059,Philip Fox,Male,31,Yes,Graduate,No,LP001198,13.3
+IP43060,Troy Staebel,Male,57,Yes,Not Graduate,No,LP001199,13.2
+IP43061,Lindsay Shagiari,Male,60,Yes,Graduate,No,LP001205,13.2
+IP43062,Dorothy Wardle,Male,52,Yes,Graduate,No,LP001206,13.4
+IP43063,Lena Creighton,Male,48,Yes,Not Graduate,Yes,LP001207,13.2
+IP43064,Jonathan Doherty,Male,26,Yes,Graduate,No,LP001213,13.4
+IP43065,Sally Hughsby,Female,49,No,Graduate,No,LP001222,13.2
+IP43066,Sandra Glassco,Male,61,Yes,Graduate,No,LP001225,13.3
+IP43067,Helen Andreada,Male,18,No,Not Graduate,No,LP001228,13.2
+IP43068,Maureen Gastineau,Male,61,Yes,Graduate,No,LP001233,13.4
+IP43069,Justin Ellison,Male,50,Yes,Not Graduate,Yes,LP001238,13.3
+IP43070,Tamara Willingham,Female,64,No,Graduate,No,LP001241,13.2
+IP43071,Stephanie Phelps,Male,67,Yes,Graduate,No,LP001243,13.2
+IP43072,Neil Knudson,Male,46,Yes,Not Graduate,Yes,LP001245,13.2
+IP43073,Dave Brooks,Male,26,No,Graduate,No,LP001248,13.2
+IP43074,Nora Paige,Male,40,Yes,Not Graduate,No,LP001250,13.3
+IP43075,Ted Trevino,Male,67,Yes,Graduate,Yes,LP001253,13.2
+IP43076,Eric Murdock,Male,51,No,Graduate,No,LP001255,13.4
+IP43077,Ruben Dartt,Male,39,No,Graduate,No,LP001256,13.2
+IP43078,Max Jones,Male,69,Yes,Graduate,Yes,LP001259,13.2
+IP43079,Becky Martin,Male,31,Yes,Graduate,No,LP001263,13.3
+IP43080,Chad Sievert,Male,20,Yes,Not Graduate,Yes,LP001264,13.2
+IP43081,Jennifer Braxton,Female,57,No,Graduate,No,LP001265,13.3
+IP43082,Shirley Jackson,Male,44,Yes,Graduate,Yes,LP001266,13.3
+IP43083,Jim Kriz,Female,45,Yes,Graduate,No,LP001267,13.4
+IP43084,David Kendrick,Male,45,Yes,Graduate,No,LP001273,13.3
+IP43085,Robert Marley,Male,61,Yes,Graduate,No,LP001275,13.2
+IP43086,Sally Knutson,Male,52,No,Graduate,No,LP001279,13.4
+IP43087,Frank Merwin,Male,43,Yes,Not Graduate,No,LP001280,13.2
+IP43088,Alice McCarthy,Male,69,Yes,Graduate,No,LP001282,13.3
+IP43089,Mark Packer,Male,49,No,Graduate,No,LP001289,13.4
+IP43090,Mary Zewe,Male,43,Yes,Graduate,No,LP001310,13.2
+IP43091,Cassandra Brandow,Male,59,Yes,Graduate,No,LP001316,13.4
+IP43092,Valerie Mitchum,Male,22,Yes,Graduate,No,LP001318,13.4
+IP43093,Fred Hopkins,Male,27,Yes,Not Graduate,No,LP001319,13.4
+IP43094,Maria Bertelson,Male,62,No,Graduate,No,LP001322,13.4
+IP43095,Bruce Stewart,Male,51,No,Not Graduate,No,LP001325,13.2
+IP43096,Logan Currie,Male,67,No,Graduate,Null,LP001326,13.3
+IP43097,Heather Kirkland,Female,62,Yes,Graduate,No,LP001327,13.2
+IP43098,Laurel Elliston,Male,40,Yes,Graduate,No,LP001333,13.2
+IP43099,Joseph Holt,Male,25,Yes,Not Graduate,No,LP001334,13.3
+IP43100,Michael Stewart,Male,41,Yes,Graduate,No,LP001343,13.3
+IP43101,Victoria Wilson,Male,69,Yes,Not Graduate,No,LP001345,13.4
+IP43102,Jonathan Howell,Male,61,No,Graduate,No,LP001349,13.2
+IP43103,Joni Blumstein,Male,60,Yes,Graduate,No,LP001350,13.4
+IP43104,David Smith,Male,43,Yes,Graduate,No,LP001356,13.3
+IP43105,Valerie Dominguez,Male,25,,Graduate,No,LP001357,13.2
+IP43106,Erin Ashbrook,Male,43,Yes,Graduate,No,LP001367,13.2
+IP43107,David Bremer,Male,39,Yes,Graduate,No,LP001369,13.2
+IP43108,Ken Lonsdale,Male,48,No,Not Graduate,Null,LP001370,13.3
+IP43109,Dianna Wilson,Male,68,Yes,Graduate,No,LP001379,13.3
+IP43110,Logan Haushalter,Male,22,Yes,Not Graduate,No,LP001384,13.2
+IP43111,Kelly Collister,Male,68,No,Graduate,No,LP001385,13.2
+IP43112,Delfina Latchford,Female,41,Yes,Graduate,Null,LP001387,13.4
+IP43113,Dan Reichenbach,Male,54,Yes,Not Graduate,No,LP001391,13.3
+IP43114,Craig Carreira,Female,58,No,Graduate,Yes,LP001392,13.4
+IP43115,Dorris liebe,Male,63,No,Graduate,Null,LP001398,13.3
+IP43116,Sean Braxton,Male,68,Yes,Graduate,No,LP001401,13.3
+IP43117,Roy Collins,Female,36,Yes,Graduate,No,LP001404,13.3
+IP43118,Alan Hwang,Male,41,Yes,Graduate,No,LP001405,13.2
+IP43119,Claudia Bergmann,Male,24,Yes,Graduate,No,LP001421,13.2
+IP43120,Christine Abelman,Female,39,No,Graduate,No,LP001422,13.4
+IP43121,Kristen Hastings,Male,67,Yes,Graduate,No,LP001426,13.2
+IP43122,Barry Blumstein,Female,23,No,Graduate,No,LP001430,13.2
+IP43123,Andrew Gjertsen,Female,60,No,Graduate,No,LP001431,13.4
+IP43124,Jas O'Carroll,Male,31,Yes,Graduate,No,LP001432,13.2
+IP43125,Alan Haines,Male,46,Yes,Not Graduate,No,LP001439,13.2
+IP43126,Nick Zandusky,Female,66,No,Graduate,No,LP001443,13.4
+IP43127,Kelly Lampkin,Male,48,Yes,Graduate,No,LP001448,13.2
+IP43128,Alan Schoenberger,Male,21,No,Graduate,No,LP001449,13.4
+IP43129,Corey Roper,Male,69,Yes,Graduate,Yes,LP001451,13.4
+IP43130,Shahid Hopkins,Male,38,Yes,Graduate,No,LP001465,13.2
+IP43131,Ben Peterman,Male,21,No,Graduate,Yes,LP001469,13.2
+IP43132,Thomas Seio,Male,34,No,Graduate,No,LP001473,13.4
+IP43133,Andy Gerbode,Male,32,No,Graduate,No,LP001478,13.2
+IP43134,Sung Pak,Male,67,Yes,Graduate,Yes,LP001482,13.4
+IP43135,Nathan Mautz,Male,59,No,Graduate,No,LP001487,13.4
+IP43136,Frank Atkinson,Male,70,Yes,Graduate,No,LP001488,13.2
+IP43137,Grace Kelly,Female,19,Yes,Graduate,No,LP001489,13.2
+IP43138,Don Jones,Male,69,Yes,Graduate,Yes,LP001491,13.2
+IP43139,Patrick O'Brill,Male,42,No,Graduate,No,LP001492,13.4
+IP43140,John Lucas,Male,19,Yes,Not Graduate,No,LP001493,13.4
+IP43141,Doug Bickford,Male,25,Yes,Graduate,No,LP001497,13.2
+IP43142,Alyssa Crouse,Male,48,No,Graduate,No,LP001498,13.2
+IP43143,Clay Cheatham,Male,27,No,Graduate,Yes,LP001504,13.2
+IP43144,Tamara Dahlen,Male,48,Yes,Graduate,No,LP001507,13.4
+IP43145,Adam Bellavance,Male,70,Yes,Graduate,No,LP001508,13.4
+IP43146,Jeremy Lonsdale,Female,20,Yes,Graduate,No,LP001514,13.4
+IP43147,Victoria Brennan,Female,53,Yes,Graduate,No,LP001516,13.2
+IP43148,Katrina Willman,Male,56,Yes,Graduate,No,LP001518,13.4
+IP43149,Julia Dunbar,Female,59,No,Graduate,No,LP001519,13.2
+IP43150,Michael Kennedy,Male,66,Yes,Graduate,No,LP001520,13.4
+IP43151,Guy Thornton,Male,47,No,Graduate,No,LP001528,13.3
+IP43152,Arthur Gainer,Male,53,Yes,Graduate,Yes,LP001529,13.2
+IP43153,Muhammed MacIntyre,Male,59,No,Graduate,No,LP001531,13.3
+IP43154,Allen Rosenblatt,Male,25,Yes,Not Graduate,No,LP001532,13.4
+IP43155,Russell Applegate,Male,36,No,Graduate,No,LP001535,13.3
+IP43156,Alejandro Savely,Male,50,Yes,Graduate,No,LP001536,13.2
+IP43157,Laura Armstrong,Male,66,Yes,Graduate,No,LP001541,13.3
+IP43158,Denny Ordway,Male,63,Yes,Graduate,No,LP001543,13.2
+IP43159,Dean Katz,Male,30,No,Graduate,Null,LP001546,13.4
+IP43160,Nathan Gelder,Male,35,Yes,Graduate,No,LP001552,13.4
+IP43161,Mike Vittorini,Male,33,Yes,Not Graduate,No,LP001560,13.4
+IP43162,Jack Garza,Male,69,Yes,Graduate,No,LP001562,13.2
+IP43163,Bart Pistole,Male,36,Yes,Graduate,No,LP001565,13.3
+IP43164,Victor Preis,Male,57,Yes,Graduate,No,LP001570,13.2
+IP43165,Saphhira Shifley,Male,27,Yes,Graduate,No,LP001572,13.4
+IP43166,Anna Gayman,Male,31,Yes,Graduate,No,LP001574,13.3
+IP43167,Luke Foster,Female,64,Yes,Graduate,No,LP001577,13.2
+IP43168,Roy Franzosisch,Male,30,Yes,Graduate,No,LP001578,13.4
+IP43169,Keith Herrera,Male,18,No,Graduate,No,LP001579,13.2
+IP43170,Kimberly Carter,Male,23,Yes,Graduate,No,LP001580,13.2
+IP43171,Caroline Jumper,Male,70,Yes,Not Graduate,Null,LP001581,13.2
+IP43172,Philip Brown,Male,34,Yes,Graduate,No,LP001585,13.2
+IP43173,Michael Paige,Male,60,Yes,Not Graduate,No,LP001586,13.4
+IP43174,Natalie Fritzler,Male,22,Yes,Graduate,No,LP001594,13.2
+IP43175,Shirley Daniels,Male,46,Yes,Not Graduate,Yes,LP001603,13.4
+IP43176,Ken Heidel,Male,60,Yes,Graduate,No,LP001606,13.3
+IP43177,Ross Baird,Male,50,Yes,Graduate,No,LP001608,13.2
+IP43178,Mike Kennedy,Male,70,Yes,Graduate,No,LP001610,13.2
+IP43179,Philisse Overcash,Male,41,Yes,Graduate,No,LP001616,13.3
+IP43180,Brenda Bowman,Male,27,No,Not Graduate,No,LP001630,13.3
+IP43181,Troy Blackwell,Male,37,Yes,Graduate,No,LP001633,13.3
+IP43182,Raymond Buch,Male,26,No,Graduate,No,LP001634,13.4
+IP43183,Ed Braxton,Male,51,Yes,Graduate,No,LP001636,13.4
+IP43184,Sanjit Chand,Male,54,Yes,Graduate,No,LP001637,13.2
+IP43185,Tanja Norvell,Female,30,Yes,Graduate,No,LP001639,13.2
+IP43186,Joni Sundaresam,Male,26,Yes,Graduate,Yes,LP001640,13.3
+IP43187,Maya Herman,Male,32,Yes,Graduate,Yes,LP001641,13.4
+IP43188,Jeremy Pistek,Male,48,Yes,Graduate,No,LP001643,13.2
+IP43189,Jeremy Ellison,Male,69,Yes,Graduate,Yes,LP001644,13.4
+IP43190,John Grady,Male,34,Yes,Graduate,No,LP001647,13.4
+IP43191,Xylona Preis,Male,31,No,Not Graduate,No,LP001653,13.2
+IP43192,Erin Mull,Male,30,No,Graduate,No,LP001656,13.4
+IP43193,Michelle Tran,Male,51,Yes,Not Graduate,No,LP001657,13.2
+IP43194,Sue Ann Reed,Male,25,No,Graduate,No,LP001658,13.3
+IP43195,Carl Weiss,Male,31,No,Graduate,No,LP001664,13.3
+IP43196,Astrea Jones,Male,70,Yes,Graduate,No,LP001665,13.4
+IP43197,Sonia Sunley,Male,19,No,Graduate,No,LP001666,13.2
+IP43198,Rose O'Brian,Female,59,No,Not Graduate,No,LP001669,13.2
+IP43199,Maribeth Dona,Female,63,Yes,Graduate,No,LP001671,13.2
+IP43200,Maribeth Yedwab,Male,41,No,Graduate,Yes,LP001673,13.2
+IP43201,Christopher Martinez,Male,49,Yes,Not Graduate,No,LP001674,13.2
+IP43202,Lynn Smith,Male,40,No,Graduate,No,LP001677,13.3
+IP43203,Bradley Nguyen,Male,55,Yes,Not Graduate,No,LP001682,13.2
+IP43204,Dean Braden,Male,51,Yes,Not Graduate,No,LP001688,13.3
+IP43205,Matt Connell,Male,42,Yes,Not Graduate,No,LP001691,13.3
+IP43206,Brian Dahlen,Female,39,No,Not Graduate,No,LP001692,13.4
+IP43207,Patricia Hirasaki,Female,53,No,Graduate,No,LP001693,13.2
+IP43208,Mike Gockenbach,Male,22,No,Not Graduate,No,LP001698,13.4
+IP43209,Karen Bern,Male,38,No,Graduate,No,LP001699,13.2
+IP43210,Jasper Cacioppo,Male,58,No,Graduate,No,LP001702,13.2
+IP43211,Rob Lucas,Female,47,No,Graduate,No,LP001708,13.2
+IP43212,Allen Armold,Male,32,Yes,Graduate,No,LP001711,13.2
+IP43213,Emily Phan,Male,65,Yes,Graduate,Yes,LP001713,13.3
+IP43214,Darren Koutras,Male,68,Yes,Not Graduate,Yes,LP001715,13.2
+IP43215,Bradley Drucker,Male,67,Yes,Graduate,No,LP001716,13.3
+IP43216,Liz MacKendrick,Male,62,Yes,Not Graduate,No,LP001720,13.4
+IP43217,Adrian Shami,Male,39,Yes,Graduate,No,LP001722,13.4
+IP43218,Bill Donatelli,Male,22,Yes,Graduate,No,LP001726,13.2
+IP43219,Greg Tran,Male,57,Yes,Graduate,Null,LP001732,13.3
+IP43220,Ashley Jarboe,Female,38,Yes,Graduate,No,LP001734,13.2
+IP43221,Olvera Toch,Male,20,Yes,Graduate,No,LP001736,13.2
+IP43222,Liz Pelletier,Male,25,Yes,Graduate,No,LP001743,13.2
+IP43223,Cynthia Arntzen,Male,40,No,Graduate,No,LP001744,13.2
+IP43224,Jeremy Farry,Male,38,Yes,Graduate,No,LP001749,13.2
+IP43225,Frank Preis,Male,41,Yes,Graduate,No,LP001750,13.2
+IP43226,Ellis Ballard,Male,18,Yes,Graduate,No,LP001751,13.2
+IP43227,Jennifer Ferguson,Male,21,Yes,Not Graduate,Yes,LP001754,13.4
+IP43228,Sarah Foster,Male,60,Yes,Graduate,No,LP001758,13.2
+IP43229,Trudy Glocke,Male,36,,Graduate,No,LP001760,13.2
+IP43230,Carlos Soltero,Male,61,No,Graduate,Yes,LP001761,13.3
+IP43231,Charles Crestani,Male,61,Yes,Graduate,No,LP001765,13.2
+IP43232,Dianna Vittorini,Male,35,Yes,Graduate,Null,LP001768,13.2
+IP43233,Bruce Degenhardt,Male,64,No,Not Graduate,No,LP001770,13.2
+IP43234,Zuschuss Carroll,Female,61,No,Graduate,No,LP001776,13.2
+IP43235,Melanie Seite,Male,68,Yes,Graduate,No,LP001778,13.3
+IP43236,Lena Radford,Male,58,Yes,Graduate,No,LP001784,13.2
+IP43237,Theone Pippenger,Male,42,Yes,Graduate,Null,LP001786,13.4
+IP43238,Chloris Kastensmidt,Female,62,No,Graduate,Yes,LP001788,13.4
+IP43239,Alan Shonely,Female,60,No,Graduate,No,LP001790,13.2
+IP43240,Andrew Roberts,Male,57,Yes,Graduate,No,LP001792,13.4
+IP43241,Nona Balk,Male,49,Yes,Graduate,No,LP001798,13.3
+IP43242,Giulietta Dortch,Male,64,Yes,Not Graduate,No,LP001800,13.4
+IP43243,Clytie Kelty,Male,22,No,Graduate,No,LP001806,13.4
+IP43244,Nat Gilpin,Male,30,Yes,Graduate,Yes,LP001807,13.4
+IP43245,Christina Anderson,Male,30,Yes,Not Graduate,No,LP001811,13.3
+IP43246,Sylvia Foulston,Male,21,No,Graduate,Yes,LP001813,13.3
+IP43247,Meg O'Connel,Male,50,Yes,Graduate,No,LP001814,13.4
+IP43248,Annie Thurman,Male,37,Yes,Not Graduate,No,LP001819,13.2
+IP43249,Fred McMath,Male,57,Yes,Graduate,No,LP001824,13.2
+IP43250,Denny Joy,Male,30,Yes,Graduate,No,LP001825,13.2
+IP43251,Max Engle,Male,66,Yes,Not Graduate,No,LP001835,13.2
+IP43252,Justin Deggeller,Female,39,No,Graduate,No,LP001836,13.3
+IP43253,John Lee,Male,19,No,Not Graduate,Yes,LP001841,13.2
+IP43254,Sean Christensen,Male,25,Yes,Not Graduate,No,LP001843,13.3
+IP43255,Chuck Clark,Male,41,No,Graduate,Yes,LP001844,13.3
+IP43256,Anthony Rawles,Female,68,No,Graduate,No,LP001846,13.2
+IP43257,Steven Roelle,Male,28,No,Not Graduate,No,LP001849,13.4
+IP43258,Craig Reiter,Male,44,Yes,Graduate,No,LP001854,13.4
+IP43259,Eugene Hildebrand,Male,57,Yes,Graduate,No,LP001859,13.3
+IP43260,Sibella Parks,Male,61,Yes,Not Graduate,No,LP001864,13.4
+IP43261,Tiffany House,Male,41,Yes,Graduate,No,LP001865,13.3
+IP43262,Resi Polking,Male,19,No,Graduate,No,LP001868,13.4
+IP43263,Rob Beeghly,Female,50,No,Graduate,No,LP001870,13.3
+IP43264,Carol Darley,Female,45,No,Graduate,No,LP001871,13.3
+IP43265,Doug Jacobs,Male,70,No,Graduate,Yes,LP001872,13.4
+IP43266,Grant Thornton,Male,22,No,Graduate,No,LP001875,13.2
+IP43267,Michael Chen,Male,58,Yes,Graduate,No,LP001877,13.2
+IP43268,Ralph Arnett,Male,27,Yes,Graduate,No,LP001882,13.4
+IP43269,Naresj Patel,Female,20,No,Graduate,Null,LP001883,13.2
+IP43270,Alan Barnes,Female,50,No,Graduate,No,LP001884,13.2
+IP43271,Jesus Ocampo,Female,48,No,Graduate,No,LP001888,13.4
+IP43272,Jay Kimmel,Male,61,Yes,Graduate,No,LP001891,13.2
+IP43273,Brad Norvell,Male,45,No,Graduate,No,LP001892,13.2
+IP43274,David Philippe,Male,22,Yes,Graduate,No,LP001894,13.4
+IP43275,Tracy Hopkins,Male,53,Yes,Graduate,No,LP001896,13.4
+IP43276,Arthur Prichep,Male,35,Yes,Graduate,No,LP001900,13.2
+IP43277,Roland Schwarz,Male,37,Yes,Graduate,No,LP001903,13.4
+IP43278,Seth Vernon,Male,46,Yes,Graduate,No,LP001904,13.4
+IP43279,Christine Kargatis,Male,70,Yes,Graduate,No,LP001907,13.2
+IP43280,Ross DeVincentis,Female,60,Yes,Not Graduate,No,LP001908,13.2
+IP43281,Mathew Reese,Male,62,No,Not Graduate,Yes,LP001910,13.4
+IP43282,Steve Chapman,Male,45,Yes,Graduate,No,LP001914,13.2
+IP43283,Jay Fein,Male,18,Yes,Graduate,No,LP001915,13.3
+IP43284,Emily Grady,Female,32,No,Graduate,No,LP001917,13.4
+IP43285,Darrin Sayre,Male,38,Yes,Graduate,No,LP001922,13.2
+IP43286,Phillina Ober,Male,42,No,Graduate,No,LP001924,13.3
+IP43287,Sung Shariari,Female,48,No,Graduate,Yes,LP001925,13.3
+IP43288,Peter Buhler,Male,38,Yes,Graduate,No,LP001926,13.3
+IP43289,Roland Fjeld,Female,67,No,Graduate,No,LP001931,13.3
+IP43290,Yoseph Carroll,Male,60,No,Graduate,No,LP001935,13.2
+IP43291,Debra Catini,Male,59,Yes,Graduate,No,LP001936,13.3
+IP43292,Christine Phan,Male,27,Yes,Graduate,No,LP001938,13.4
+IP43293,Barry Franzosisch,Male,46,Yes,Graduate,No,LP001940,13.3
+IP43294,Lisa Hazard,Female,26,No,Graduate,No,LP001945,13.4
+IP43295,Chris Selesnick,Male,31,Yes,Graduate,No,LP001947,13.2
+IP43296,Anthony Johnson,Male,51,Yes,Graduate,Null,LP001949,13.2
+IP43297,Benjamin Venier,Male,69,Yes,Graduate,No,LP001953,13.3
+IP43298,Dan Lawera,Female,47,Yes,Graduate,No,LP001954,13.4
+IP43299,Bryan Mills,Female,19,No,Graduate,No,LP001955,13.4
+IP43300,Liz Thompson,Male,51,Yes,Graduate,No,LP001963,13.2
+IP43301,Joe Kamberova,Male,55,Yes,Not Graduate,No,LP001964,13.2
+IP43302,Erica Smith,Male,59,Yes,Not Graduate,No,LP001972,13.2
+IP43303,Rick Hansen,Female,19,No,Graduate,No,LP001974,13.3
+IP43304,Carlos Daly,Male,48,Yes,Graduate,No,LP001977,13.2
+IP43305,Helen Wasserman,Male,50,No,Graduate,No,LP001978,13.2
+IP43306,Mike Caudle,Male,45,No,Not Graduate,No,LP001990,13.2
+IP43307,Gary McGarr,Female,38,No,Graduate,No,LP001993,13.2
+IP43308,Pauline Johnson,Female,25,No,Graduate,No,LP001994,13.2
+IP43309,Bart Watters,Male,48,No,Graduate,No,LP001996,13.3
+IP43310,Toby Ritter,Male,56,Yes,Not Graduate,No,LP001998,13.4
+IP43311,Patrick Gardner,Female,40,No,Graduate,No,LP002002,13.2
+IP43312,James Lanier,Male,32,No,Not Graduate,No,LP002004,13.2
+IP43313,Brian Moss,Female,18,No,Graduate,No,LP002006,13.4
+IP43314,Eudokia Martin,Male,66,Yes,Graduate,Yes,LP002008,13.2
+IP43315,Art Foster,Female,37,Yes,Graduate,No,LP002024,13.2
+IP43316,Guy Armstrong,Male,38,Yes,Not Graduate,No,LP002031,13.4
+IP43317,Cyma Kinney,Male,27,Yes,Graduate,No,LP002035,13.4
+IP43318,Dave Poirier,Male,47,Yes,Graduate,No,LP002036,13.2
+IP43319,Berenike Kampe,Female,21,No,Graduate,No,LP002043,13.4
+IP43320,Sanjit Jacobs,Male,28,Yes,Graduate,Yes,LP002050,13.4
+IP43321,Chuck Magee,Male,42,Yes,Graduate,No,LP002051,13.2
+IP43322,Anthony Jacobs,Male,51,Yes,Graduate,No,LP002053,13.2
+IP43323,Linda Southworth,Male,40,Yes,Not Graduate,No,LP002054,13.4
+IP43324,Guy Phonely,Female,65,No,Graduate,No,LP002055,13.4
+IP43325,Paul Knutson,Male,29,Yes,Graduate,No,LP002065,13.4
+IP43326,Sally Matthias,Male,65,Yes,Graduate,Yes,LP002067,13.4
+IP43327,Anthony Garverick,Male,42,No,Graduate,No,LP002068,13.4
+IP43328,Peter McVee,Male,25,Yes,Graduate,Yes,LP002082,13.3
+IP43329,Lauren Leatherbury,Female,65,Yes,Graduate,No,LP002086,13.4
+IP43330,Jill Stevenson,Female,55,No,Graduate,No,LP002087,13.2
+IP43331,Ed Ludwig,Male,41,No,Graduate,No,LP002097,13.4
+IP43332,Pamela Coakley,Male,68,No,Graduate,No,LP002098,13.2
+IP43333,Hunter Lopez,Male,20,No,Graduate,No,LP002100,13.3
+IP43334,Maribeth Schnelling,Male,38,Yes,Graduate,Null,LP002101,13.3
+IP43335,George Bell,Female,23,Yes,Graduate,Yes,LP002103,13.4
+IP43336,Justin Ritter,Male,28,Yes,Graduate,Yes,LP002106,13.4
+IP43337,Bill Eplett,Male,21,Yes,Graduate,Null,LP002110,13.3
+IP43338,Sample Company A,Male,36,Yes,Graduate,Yes,LP002112,13.4
+IP43339,Rob Williams,Female,59,No,Not Graduate,No,LP002113,13.3
+IP43340,Sanjit Engle,Female,29,No,Graduate,No,LP002114,13.4
+IP43341,Adam Hart,Male,27,Yes,Not Graduate,No,LP002115,13.4
+IP43342,Jessica Myrick,Female,47,No,Graduate,No,LP002116,13.4
+IP43343,Joel Jenkins,Male,23,Yes,Not Graduate,No,LP002119,13.2
+IP43344,Ralph Kennedy,Male,69,Yes,Not Graduate,No,LP002126,13.4
+IP43345,Catherine Glotzbach,Male,67,Yes,Graduate,Null,LP002128,13.4
+IP43346,Rachel Payne,Male,35,Yes,Graduate,No,LP002129,13.2
+IP43347,Karen Carlisle,Male,56,Yes,Not Graduate,No,LP002130,13.2
+IP43348,Katherine Hughes,Male,23,Yes,Not Graduate,No,LP002131,13.4
+IP43349,Greg Hansen,Male,58,Yes,Graduate,No,LP002137,13.3
+IP43350,Scott Williamson,Male,29,Yes,Graduate,No,LP002138,13.2
+IP43351,Joseph Airdo,Male,53,Yes,Graduate,No,LP002139,13.2
+IP43352,Daniel Lacy,Male,29,No,Graduate,No,LP002140,13.2
+IP43353,Lindsay Williams,Male,65,Yes,Graduate,No,LP002141,13.2
+IP43354,Thomas Brumley,Female,54,Yes,Graduate,Yes,LP002142,13.2
+IP43355,Bryan Spruell,Female,67,Yes,Graduate,No,LP002143,13.4
+IP43356,Robert Waldorf,Female,55,No,Graduate,No,LP002144,13.2
+IP43357,Tracy Zic,Male,30,Yes,Graduate,No,LP002149,13.2
+IP43358,Ann Steele,Male,60,Yes,Graduate,No,LP002151,13.3
+IP43359,Toby Swindell,Male,39,Yes,Not Graduate,No,LP002158,13.3
+IP43360,Sara Luxemburg,Male,58,Yes,Graduate,No,LP002160,13.2
+IP43361,Mitch Willingham,Female,44,No,Graduate,No,LP002161,13.2
+IP43362,Rob Dowd,Male,60,Yes,Graduate,No,LP002170,13.2
+IP43363,Ryan Akin,Male,57,Yes,Graduate,No,LP002175,13.2
+IP43364,Meg Tillman,Male,67,Yes,Graduate,No,LP002178,13.2
+IP43365,Vivek Gonzalez,Male,42,No,Graduate,Yes,LP002180,13.2
+IP43366,John Stevenson,Male,47,No,Not Graduate,No,LP002181,13.2
+IP43367,Kalyca Meade,Male,47,No,Graduate,No,LP002187,13.4
+IP43368,Hallie Redmond,Male,48,No,Graduate,No,LP002188,13.2
+IP43369,Deanra Eno,Male,53,Yes,Graduate,No,LP002190,13.4
+IP43370,Allen Goldenen,Male,25,Yes,Graduate,No,LP002191,13.4
+IP43371,Jennifer Jackson,Female,37,No,Graduate,Yes,LP002194,13.2
+IP43372,Jennifer Halladay,Male,60,Yes,Graduate,No,LP002197,13.2
+IP43373,Robert Dilbeck,Male,42,Yes,Graduate,Yes,LP002201,13.3
+IP43374,Mary O'Rourke,Male,53,No,Graduate,No,LP002205,13.4
+IP43375,Noel Staavos,Female,27,No,Graduate,Null,LP002209,13.3
+IP43376,Deirdre Greer,Male,46,Yes,Graduate,No,LP002211,13.4
+IP43377,Nicole Fjeld,Male,58,Yes,Graduate,No,LP002219,13.4
+IP43378,Matthew Grinstein,Male,65,Yes,Graduate,No,LP002223,13.4
+IP43379,Theresa Swint,Male,38,No,Graduate,No,LP002224,13.4
+IP43380,Brian DeCherney,Male,22,Yes,Graduate,No,LP002225,13.2
+IP43381,Charles McCrossin,Male,46,Yes,Graduate,Null,LP002226,13.3
+IP43382,Skye Norling,Male,30,No,Graduate,No,LP002229,13.2
+IP43383,Erica Hernandez,Female,60,No,Graduate,No,LP002231,13.2
+IP43384,Frank Olsen,Male,32,No,Graduate,Yes,LP002234,13.4
+IP43385,Maurice Satty,Male,36,Yes,Graduate,No,LP002236,13.2
+IP43386,Chad Cunningham,Male,66,No,Graduate,Null,LP002237,13.3
+IP43387,Don Weiss,Male,23,No,Not Graduate,No,LP002239,13.2
+IP43388,Bill Tyler,Male,64,Yes,Not Graduate,No,LP002243,13.3
+IP43389,Craig Yedwab,Male,45,Yes,Graduate,No,LP002244,13.2
+IP43390,Brad Thomas,Male,52,Yes,Graduate,No,LP002250,13.4
+IP43391,Penelope Sewall,Male,63,No,Graduate,No,LP002255,13.2
+IP43392,Paul Van Hugh,Male,26,Yes,Graduate,No,LP002262,13.2
+IP43393,Neoma Murray,Male,45,Yes,Graduate,No,LP002263,13.2
+IP43394,Dionis Lloyd,Male,66,Yes,Not Graduate,No,LP002265,13.2
+IP43395,Christine Sundaresam,Male,42,Yes,Graduate,No,LP002266,13.2
+IP43396,Frank Hawley,Male,18,Yes,Graduate,No,LP002272,13.3
+IP43397,Nat Carroll,Female,41,No,Graduate,No,LP002277,13.3
+IP43398,Alex Avila,Male,19,Yes,Graduate,No,LP002281,13.3
+IP43399,Larry Tron,Male,67,No,Not Graduate,No,LP002284,13.2
+IP43400,Anne Pryor,Female,69,No,Graduate,No,LP002287,13.4
+IP43401,Paul MacIntyre,Male,34,Yes,Not Graduate,No,LP002288,13.3
+IP43402,Alyssa Tate,Male,37,No,Not Graduate,No,LP002296,13.2
+IP43403,Cathy Armstrong,Male,57,No,Graduate,No,LP002297,13.3
+IP43404,Harold Ryan,Female,32,No,Not Graduate,No,LP002300,13.2
+IP43405,Bradley Talbott,Female,19,No,Graduate,Yes,LP002301,13.2
+IP43406,Larry Hughes,Female,51,No,Graduate,No,LP002305,13.2
+IP43407,Steven Ward,Male,46,Yes,Not Graduate,No,LP002308,13.4
+IP43408,Stefania Perrino,Female,69,No,Not Graduate,No,LP002314,13.4
+IP43409,Ben Ferrer,Male,22,Yes,Graduate,No,LP002315,13.2
+IP43410,Kean Thornton,Male,32,Yes,Graduate,No,LP002317,13.4
+IP43411,Brooke Gillingham,Female,25,No,Not Graduate,Yes,LP002318,13.4
+IP43412,Greg Matthias,Male,69,Yes,Graduate,Null,LP002319,13.2
+IP43413,Eva Jacobs,Male,54,Yes,Not Graduate,No,LP002328,13.2
+IP43414,Nora Preis,Male,18,Yes,Not Graduate,No,LP002332,13.2
+IP43415,Mick Hernandez,Female,49,Yes,Not Graduate,No,LP002335,13.4
+IP43416,Jocasta Rupert,Female,50,No,Graduate,No,LP002337,13.2
+IP43417,Suzanne McNair,Female,50,No,Graduate,No,LP002341,13.2
+IP43418,Chris Cortes,Male,41,Yes,Graduate,Yes,LP002342,13.3
+IP43419,Phillip Flathmann,Male,53,Yes,Graduate,No,LP002345,13.2
+IP43420,Dan Campbell,Male,57,Yes,Graduate,No,LP002347,13.2
+IP43421,Bryan Davis,Male,53,Yes,Graduate,No,LP002348,13.3
+IP43422,Gene McClure,Female,48,No,Not Graduate,No,LP002357,13.4
+IP43423,Todd Boyes,Male,57,Yes,Graduate,No,LP002361,13.4
+IP43424,Justin Hirsh,Male,44,Yes,Graduate,No,LP002362,13.2
+IP43425,Erica Bern,Male,32,Yes,Graduate,No,LP002364,13.2
+IP43426,Quincy Jones,Male,64,Yes,Graduate,No,LP002366,13.3
+IP43427,Tracy Collins,Female,25,No,Not Graduate,No,LP002367,13.2
+IP43428,Chuck Sachs,Male,58,Yes,Graduate,No,LP002368,13.2
+IP43429,Henry Goldwyn,Male,64,Yes,Graduate,No,LP002369,13.2
+IP43430,Laurel Workman,Male,56,No,Not Graduate,No,LP002370,13.2
+IP43431,Matt Collins,Female,62,No,Graduate,Yes,LP002377,13.4
+IP43432,Liz Preis,Male,67,No,Graduate,No,LP002379,13.2
+IP43433,Evan Bailliet,Male,65,No,Graduate,Null,LP002386,13.2
+IP43434,George Zrebassa,Male,34,Yes,Graduate,No,LP002387,13.4
+IP43435,Cathy Prescott,Male,41,No,Graduate,No,LP002390,13.4
+IP43436,Frank Gastineau,Female,18,,Graduate,No,LP002393,13.2
+IP43437,Lisa DeCherney,Male,26,No,Graduate,No,LP002398,13.2
+IP43438,Alejandro Ballentine,Male,50,Yes,Graduate,No,LP002401,13.4
+IP43439,Michael Nguyen,Male,42,No,Graduate,Yes,LP002403,13.3
+IP43440,Jim Radford,Female,26,Yes,Not Graduate,Yes,LP002407,13.4
+IP43441,Jamie Frazer,Male,41,No,Graduate,No,LP002408,13.2
+IP43442,Chad McGuire,Male,65,Yes,Graduate,No,LP002409,13.4
+IP43443,Aaron Smayling,Male,24,No,Not Graduate,No,LP002418,13.2
+IP43444,Beth Paige,Male,64,No,Graduate,No,LP002422,13.3
+IP43445,Natalie DeCherney,Male,34,Yes,Graduate,No,LP002424,13.2
+IP43446,Larry Blacks,Male,39,Yes,Graduate,Yes,LP002429,13.3
+IP43447,Kean Takahito,Male,31,Yes,Not Graduate,No,LP002434,13.2
+IP43448,Harry Marie,Male,67,Yes,Graduate,Null,LP002435,13.4
+IP43449,Ann Blume,Male,44,Yes,Graduate,No,LP002443,13.2
+IP43450,Sam Zeldin,Male,31,No,Not Graduate,Yes,LP002444,13.2
+IP43451,Michael Granlund,Male,70,Yes,Not Graduate,No,LP002446,13.4
+IP43452,Julie Kriz,Male,63,Yes,Not Graduate,No,LP002447,13.3
+IP43453,Paul Prost,Male,58,Yes,Graduate,No,LP002448,13.2
+IP43454,Yana Sorensen,Male,38,Yes,Graduate,No,LP002449,13.2
+IP43455,Katherine Murray,Male,42,No,Graduate,Yes,LP002453,13.2
+IP43456,Adrian Barton,Male,52,Yes,Graduate,No,LP002455,13.2
+IP43457,Helen Abelman,Male,57,Yes,Graduate,No,LP002459,13.4
+IP43458,Beth Thompson,Male,26,Yes,Graduate,No,LP002467,13.2
+IP43459,Stuart Van,Male,41,No,Graduate,No,LP002472,13.3
+IP43460,Rick Wilson,Male,47,Yes,Graduate,No,LP002473,13.2
+IP43461,Damala Kotsonis,Female,28,Yes,Graduate,Yes,LP002478,13.2
+IP43462,Shui Tom,Male,21,Yes,Graduate,No,LP002484,13.4
+IP43463,Michael Moore,Male,50,Yes,Graduate,No,LP002487,13.2
+IP43464,Pauline Webber,Female,48,No,Not Graduate,Null,LP002489,13.2
+IP43465,Shaun Chance,Male,44,No,Graduate,No,LP002493,13.2
+IP43466,Thais Sissman,Male,54,No,Graduate,No,LP002494,13.2
+IP43467,Mark Cousins,Male,68,Yes,Not Graduate,No,LP002500,13.2
+IP43468,Maria Etezadi,Female,43,Yes,Graduate,No,LP002501,13.2
+IP43469,Nicole Hansen,Female,42,Yes,Not Graduate,Null,LP002502,13.3
+IP43470,Mick Brown,Male,41,Yes,Graduate,No,LP002505,13.4
+IP43471,Keith Dawkins,Male,47,Yes,Graduate,Yes,LP002515,13.4
+IP43472,Katherine Nockton,Male,33,Yes,Not Graduate,No,LP002517,13.2
+IP43473,Nora Pelletier,Male,55,Yes,Graduate,No,LP002519,13.4
+IP43474,Cindy Stewart,Female,62,No,Graduate,Yes,LP002522,13.2
+IP43475,Maxwell Schwartz,Male,24,No,Graduate,No,LP002524,13.4
+IP43476,Corinna Mitchell,Male,26,Yes,Graduate,Yes,LP002527,13.2
+IP43477,Corey-Lock,Male,49,Yes,Graduate,No,LP002529,13.4
+IP43478,Todd Sumrall,Female,48,Yes,Graduate,No,LP002530,13.4
+IP43479,Jane Waco,Male,35,Yes,Graduate,Yes,LP002531,13.2
+IP43480,John Dryer,Male,37,Yes,Graduate,No,LP002533,13.3
+IP43481,Pauline Chand,Female,20,No,Not Graduate,No,LP002534,13.2
+IP43482,Andy Reiter,Male,63,Yes,Not Graduate,No,LP002536,13.4
+IP43483,Arianne Irving,Male,34,Yes,Graduate,No,LP002537,13.4
+IP43484,Tom Boeckenhauer,Male,28,Yes,Graduate,No,LP002541,13.2
+IP43485,Paul Lucas,Male,63,Yes,Graduate,No,LP002543,13.3
+IP43486,Gary Hwang,Male,24,Yes,Not Graduate,No,LP002544,13.2
+IP43487,Mike Pelletier,Male,63,No,Graduate,No,LP002545,13.2
+IP43488,Jim Mitchum,Male,63,Yes,Graduate,No,LP002547,13.4
+IP43489,Carl Ludwig,Male,65,Yes,Graduate,Yes,LP002555,13.4
+IP43490,Deborah Brumfield,Male,25,No,Graduate,No,LP002556,13.2
+IP43491,Ivan Gibson,Male,20,No,Not Graduate,No,LP002560,13.2
+IP43492,Bobby Odegard,Male,44,Yes,Not Graduate,No,LP002562,13.2
+IP43493,Aimee Bixby,Male,66,No,Not Graduate,No,LP002571,13.4
+IP43494,Julia West,Female,37,No,Not Graduate,Yes,LP002582,13.4
+IP43495,Edward Becker,Male,65,Yes,Graduate,No,LP002585,13.2
+IP43496,Sheri Gordon,Female,22,Yes,Graduate,No,LP002586,13.4
+IP43497,Charlotte Melton,Male,54,Yes,Not Graduate,No,LP002587,13.4
+IP43498,Anthony Witt,Male,25,Yes,Graduate,No,LP002588,13.3
+IP43499,Mick Crebagga,Male,47,Yes,Graduate,Yes,LP002600,13.3
+IP43500,Tonja Turnell,Male,44,No,Graduate,No,LP002602,13.3
+IP43501,Vivek Grady,Female,44,No,Graduate,No,LP002603,13.2
+IP43502,Muhammed Yedwab,Female,35,No,Graduate,No,LP002606,13.3
+IP43503,Rick Duston,Male,37,Yes,Graduate,No,LP002615,13.2
+IP43504,Dennis Pardue,Male,24,Yes,Not Graduate,No,LP002618,13.3
+IP43505,Marina Lichtenstein,Male,29,Yes,Not Graduate,No,LP002619,13.2
+IP43506,Jenna Caffey,Male,24,Yes,Graduate,No,LP002622,13.2
+IP43507,James Galang,Male,53,Yes,Graduate,No,LP002624,13.2
+IP43508,Marc Crier,Null,67,No,Graduate,No,LP002625,13.2
+IP43509,Natalie Webber,Male,58,Yes,Graduate,Yes,LP002626,13.2
+IP43510,Toby Braunhardt,Female,42,No,Graduate,No,LP002634,13.4
+IP43511,Bill Stewart,Male,21,No,Not Graduate,No,LP002637,13.3
+IP43512,Hilary Holden,Male,19,Yes,Graduate,No,LP002640,13.2
+IP43513,Christina DeMoss,Male,54,Yes,Graduate,No,LP002643,13.2
+IP43514,Thea Hendricks,Male,40,Yes,Graduate,No,LP002648,13.2
+IP43515,Michelle Moray,Male,21,No,Graduate,No,LP002652,13.2
+IP43516,Neola Schneider,Male,63,Yes,Graduate,No,LP002659,13.3
+IP43517,Robert Barroso,Female,36,Yes,Graduate,No,LP002670,13.2
+IP43518,Shaun Weien,Male,19,Yes,Not Graduate,No,LP002682,13.2
+IP43519,Eric Barreto,Male,32,No,Graduate,No,LP002683,13.2
+IP43520,Pamela Stobb,Female,70,No,Not Graduate,No,LP002684,13.2
+IP43521,Herbert Flentye,Male,48,Yes,Not Graduate,No,LP002689,13.3
+IP43522,Henia Zydlo,Male,62,No,Graduate,No,LP002690,13.4
+IP43523,Cynthia Delaney,Male,28,Yes,Graduate,Yes,LP002692,13.2
+IP43524,Jamie Kunitz,Male,38,Yes,Graduate,Yes,LP002693,13.2
+IP43525,Filia McAdams,Male,45,No,Graduate,No,LP002697,13.4
+IP43526,Emily Ducich,Male,39,Yes,Graduate,Yes,LP002699,13.2
+IP43527,Dianna Arnett,Male,22,Yes,Graduate,No,LP002705,13.3
+IP43528,Joni Wasserman,Male,59,Yes,Not Graduate,No,LP002706,13.2
+IP43529,Raymond Messe,Male,38,No,Not Graduate,No,LP002714,13.3
+IP43530,Max Ludwig,Male,50,No,Not Graduate,No,LP002716,13.2
+IP43531,Craig Carroll,Male,45,Yes,Graduate,No,LP002717,13.2
+IP43532,Jim Epp,Male,20,Yes,Graduate,No,LP002720,13.3
+IP43533,Roy Phan,Male,36,No,Graduate,No,LP002723,13.3
+IP43534,Thomas Boland,Male,32,No,Graduate,No,LP002729,13.3
+IP43535,Brad Eason,Female,70,No,Not Graduate,Yes,LP002731,13.3
+IP43536,Jill Fjeld,Male,29,No,Not Graduate,Null,LP002732,13.3
+IP43537,Phillip Breyer,Male,36,Yes,Graduate,No,LP002734,13.3
+IP43538,Brian Thompson,Male,33,No,Graduate,No,LP002738,13.4
+IP43539,Janet Lee,Male,47,Yes,Not Graduate,No,LP002739,13.3
+IP43540,Cathy Hwang,Male,66,Yes,Graduate,No,LP002740,13.2
+IP43541,Neil Ducich,Female,49,Yes,Graduate,No,LP002741,13.2
+IP43542,Barbara Fisher,Female,48,No,Graduate,No,LP002743,13.2
+IP43543,Katharine Harms,Female,34,No,Graduate,Null,LP002753,13.2
+IP43544,Giulietta Weimer,Male,19,Yes,Not Graduate,No,LP002755,13.2
+IP43545,Noah Childs,Female,22,Yes,Not Graduate,No,LP002757,13.2
+IP43546,Michelle Ellison,Male,46,Yes,Graduate,No,LP002767,13.2
+IP43547,Benjamin Patterson,Male,46,No,Not Graduate,No,LP002768,13.2
+IP43548,John Castell,Male,21,No,Graduate,No,LP002772,13.3
+IP43549,Adam Shillingsburg,Female,21,No,Graduate,No,LP002776,13.2
+IP43550,Amy Cox,Male,22,Yes,Graduate,No,LP002777,13.3
+IP43551,Michael Dominguez,Male,44,Yes,Graduate,Yes,LP002778,13.3
+IP43552,Duane Benoit,Male,20,Yes,Not Graduate,No,LP002784,13.4
+IP43553,Erica Hackney,Male,44,Yes,Graduate,No,LP002785,13.2
+IP43554,Edward Hooks,Male,61,Yes,Not Graduate,No,LP002788,13.4
+IP43555,Scot Coram,Male,23,Yes,Graduate,No,LP002789,13.3
+IP43556,Joe Elijah,Male,47,Yes,Graduate,No,LP002792,13.2
+IP43557,Ann Chong,Female,51,No,Graduate,No,LP002794,13.4
+IP43558,Joy Daniels,Male,60,Yes,Graduate,Yes,LP002795,13.3
+IP43559,Christy Brittain,Male,20,Yes,Graduate,No,LP002798,13.4
+IP43560,Joy Smith,Female,28,Yes,Graduate,No,LP002804,13.3
+IP43561,Luke Weiss,Male,67,Yes,Not Graduate,No,LP002807,13.2
+IP43562,Stuart Calhoun,Female,57,Yes,Graduate,Yes,LP002813,13.3
+IP43563,Anne McFarland,Male,36,Yes,Graduate,No,LP002820,13.2
+IP43564,Rick Huthwaite,Male,18,No,Not Graduate,Yes,LP002821,13.4
+IP43565,Carol Triggs,Male,59,Yes,Graduate,No,LP002832,13.3
+IP43566,Matt Collister,Male,29,Yes,Not Graduate,No,LP002833,13.4
+IP43567,Corey Catlett,Male,23,No,Graduate,No,LP002836,13.4
+IP43568,Kelly Andreada,Male,49,Yes,Graduate,No,LP002837,13.2
+IP43569,Tamara Chand,Female,27,No,Graduate,No,LP002840,13.2
+IP43570,Bart Folk,Male,31,Yes,Graduate,No,LP002841,13.4
+IP43571,Magdelene Morse,Male,20,Yes,Graduate,No,LP002842,13.4
+IP43572,Adrian Hane,Male,21,Yes,Graduate,No,LP002847,13.2
+IP43573,Ben Wallace,Male,48,Yes,Graduate,No,LP002855,13.2
+IP43574,Scot Wooten,Male,38,Yes,Not Graduate,No,LP002862,13.2
+IP43575,Brian Stugart,Male,63,Yes,Graduate,No,LP002863,13.4
+IP43576,Randy Ferguson,Male,63,Yes,Graduate,No,LP002868,13.4
+IP43577,William Brown,Null,31,Yes,Graduate,No,LP002872,13.4
+IP43578,Trudy Brown,Male,18,No,Graduate,No,LP002874,13.3
+IP43579,Art Ferguson,Male,65,Yes,Graduate,No,LP002877,13.3
+IP43580,Richard Bierner,Male,37,No,Graduate,Null,LP002888,13.3
+IP43581,Karen Ferguson,Male,53,Yes,Graduate,No,LP002892,13.2
+IP43582,John Huston,Male,61,No,Graduate,No,LP002893,13.4
+IP43583,Ivan Liston,Female,21,Yes,Graduate,No,LP002894,13.2
+IP43584,Patrick Bzostek,Male,58,Yes,Graduate,No,LP002898,13.2
+IP43585,Rob Haberlin,Male,30,Yes,Graduate,No,LP002911,13.2
+IP43586,Arthur Wiediger,Male,58,Yes,Graduate,No,LP002912,13.3
+IP43587,Maris LaWare,Male,22,Yes,Graduate,No,LP002916,13.4
+IP43588,Dorothy Badders,Female,56,No,Not Graduate,No,LP002917,13.2
+IP43589,Matt Hagelstein,Null,65,No,Graduate,No,LP002925,13.2
+IP43590,Dennis Kane,Male,20,Yes,Graduate,Yes,LP002926,13.4
+IP43591,Bobby Trafton,Male,41,Yes,Graduate,No,LP002928,13.2
+IP43592,Denny Blanton,Male,68,Yes,Graduate,Yes,LP002931,13.3
+IP43593,Toby Gnade,Null,20,No,Graduate,Yes,LP002933,13.2
+IP43594,Barry Franz,Male,56,Yes,Graduate,No,LP002936,13.2
+IP43595,Justin MacKendrick,Male,18,Yes,Graduate,Yes,LP002938,13.2
+IP43596,Maria Zettner,Male,29,No,Not Graduate,No,LP002940,13.2
+IP43597,Mitch Webber,Male,69,Yes,Not Graduate,Yes,LP002941,13.4
+IP43598,Mark Van Huff,Male,54,No,Graduate,No,LP002943,13.2
+IP43599,Sean Miller,Male,62,Yes,Graduate,Yes,LP002945,13.2
+IP43600,Tom Prescott,Male,52,Yes,Graduate,No,LP002948,13.2
+IP43601,Jim Karlsson,Female,34,No,Graduate,Null,LP002949,13.2
+IP43602,Patrick Jones,Male,19,Yes,Not Graduate,Null,LP002950,13.2
+IP43603,Ricardo Sperren,Male,44,Yes,Graduate,No,LP002953,13.2
+IP43604,Susan Vittorini,Male,53,No,Graduate,No,LP002958,13.4
+IP43605,Becky Castell,Female,35,Yes,Graduate,No,LP002959,13.2
+IP43606,Elizabeth Moffitt,Male,63,Yes,Not Graduate,No,LP002960,13.3
+IP43607,Brendan Murry,Male,22,Yes,Graduate,No,LP002961,13.4
+IP43608,Kristina Nunn,Male,65,Yes,Not Graduate,No,LP002964,13.2
+IP43609,Kelly Williams,Male,50,Yes,Graduate,No,LP002974,13.2
+IP43610,Scott Cohen,Female,24,No,Graduate,No,LP002978,13.2
+IP43611,Christina VanderZanden,Male,58,Yes,Graduate,No,LP002979,13.2
+IP43612,Speros Goranitis,Male,69,Yes,Graduate,No,LP002983,13.4
+IP43613,Tamara Manning,Male,31,Yes,Graduate,No,LP002984,13.2
+IP43614,Eleni McCrary,Female,59,No,Graduate,Yes,LP002990,13.2
