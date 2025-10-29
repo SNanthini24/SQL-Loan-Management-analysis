@@ -101,15 +101,6 @@ END;
 $$
 DELIMITER ;
 ```
-
-📸 Sample Outputs
-
-https://github.com/SNanthini24/SQL-Loan-Management-analysis/blob/main/output1.png
-https://github.com/SNanthini24/SQL-Loan-Management-analysis/blob/main/output2.png
-https://github.com/SNanthini24/SQL-Loan-Management-analysis/blob/main/output3.png
-https://github.com/SNanthini24/SQL-Loan-Management-analysis/blob/main/output4.png
-https://github.com/SNanthini24/SQL-Loan-Management-analysis/blob/main/output5.png
-
 🚀 Key Learnings
 
 Practical SQL data analysis workflow
@@ -119,14 +110,6 @@ Importance of data cleaning before analysis
 Building reusable queries and stored procedures
 
 Translating SQL results into business insights
-
-📂 Project Structure
-SQL-Loan-Management-analysis
-│
-├── customer_det,Customer_income,Loan_status,Region_info,country_state # CSV datasets
-├── Loan_Management.sql     # SQL script
-├── output1,output2,outpu3,output4,output5     # Query results & visuals
-└── readme.md               # Project documentation
 
 🧠 Future Enhancements
 
@@ -140,6 +123,7 @@ Add data validation test cases for cleaner ETL pipeline
 
 Nanthini S
 📧 nanthinisakthini@gmail.com
+
 
 
 
