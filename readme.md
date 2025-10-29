@@ -104,6 +104,11 @@ DELIMITER ;
 
 📸 Sample Outputs
 
+https://github.com/SNanthini24/SQL-Loan-Management-analysis/blob/main/output1.png
+https://github.com/SNanthini24/SQL-Loan-Management-analysis/blob/main/output2.png
+https://github.com/SNanthini24/SQL-Loan-Management-analysis/blob/main/output3.png
+https://github.com/SNanthini24/SQL-Loan-Management-analysis/blob/main/output4.png
+https://github.com/SNanthini24/SQL-Loan-Management-analysis/blob/main/output5.png
 
 🚀 Key Learnings
 
@@ -135,5 +140,6 @@ Add data validation test cases for cleaner ETL pipeline
 
 Nanthini S
 📧 nanthinisakthini@gmail.com
+
 
 
