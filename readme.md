@@ -86,9 +86,10 @@ DELIMITER ;
 - `images/` → Screenshots of query results  
 
 ## 🖼 Screenshots
-![Query Results](images/output1.png)  
-![Query Results](images/output2.png)  
-![Query Results](images/output3.png)  
-![Query Results](images/output4.png)  
-![Query Results](images/output5.png)
+output1.png  
+output2.png  
+output3.png  
+output4.png
+output5.png
+
 
