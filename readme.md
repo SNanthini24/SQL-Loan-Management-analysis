@@ -123,7 +123,7 @@ Translating SQL results into business insights
 📂 Project Structure
 SQL-Loan-Management-analysis
 │
-├── customer_det,Customer_income,Loan_status,Region_info,country_state     # CSV datasets
+├── customer_det,Customer_income,Loan_status,Region_info,country_state # CSV datasets
 ├── Loan_Management.sql     # SQL script
 ├── output1,output2,outpu3,output4,output5     # Query results & visuals
 └── readme.md               # Project documentation
@@ -140,6 +140,7 @@ Add data validation test cases for cleaner ETL pipeline
 
 Nanthini S
 📧 nanthinisakthini@gmail.com
+
 
 
 
