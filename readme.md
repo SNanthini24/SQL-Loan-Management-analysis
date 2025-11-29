@@ -33,25 +33,19 @@ Database Design & Normalization
 
 📁 Project Files
 
-loan_management.sql –
+Customer_det.sql - Contains details of customer details.
+
+Customer_income.sql - Contains income details of the customers.
+
+country_state.sql - Contains details of customer country details.
+
+Loan_status - Details of loan status of the customers.
+
+Region_info - Details of the customers regions.
 
 📸 Sample Output
 
 <img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/ad07f7c5-b6da-420f-b570-f09dcd13c6c9" />
-
-📂 Database Structure (Example)
-
-Tables included:
-
-customers
-
-loans
-
-payments
-
-loan_status
-
-Includes fields such as customer details, loan amount, interest rate, EMI, payment history, and risk score.
 
 🚀 What This Project Demonstrates
 
@@ -64,6 +58,7 @@ Automating business logic using SQL
 Writing optimized and meaningful queries
 
 Turning raw tables into actionable insights
+
 
 
 
