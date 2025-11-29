@@ -35,10 +35,9 @@ Database Design & Normalization
 
 loan_management.sql –
 
-📸 Screenshots (if you add any)
+📸 Sample Output
 
-
-(Replace with your actual file name after uploading)
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/ad07f7c5-b6da-420f-b570-f09dcd13c6c9" />
 
 📂 Database Structure (Example)
 
@@ -65,6 +64,7 @@ Automating business logic using SQL
 Writing optimized and meaningful queries
 
 Turning raw tables into actionable insights
+
 
 
 
