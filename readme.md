@@ -31,6 +31,10 @@ Aggregate Queries
 
 Database Design & Normalization
 
+📸 Sample Output
+
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/ad07f7c5-b6da-420f-b570-f09dcd13c6c9" />
+
 📁 Project Files
 
 Loan_Management.sql - Complete SQL file containing tables, insert statements, and queries.
@@ -45,11 +49,7 @@ Loan_status.csv - Details of loan status of the customers.
 
 Region_info.csv - Details of the customers regions.
 
-output1.jpg, output2.jpg, output3.jpg, output4.jpg - Output screenshots.
-
-📸 Sample Output
-
-<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/ad07f7c5-b6da-420f-b570-f09dcd13c6c9" />
+output1.png, output2.png, output3.png, output4.png, output5.png - Output screenshots.
 
 🚀 What This Project Demonstrates
 
@@ -62,6 +62,7 @@ Automating business logic using SQL
 Writing optimized and meaningful queries
 
 Turning raw tables into actionable insights
+
 
 
 
