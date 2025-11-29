@@ -33,15 +33,19 @@ Database Design & Normalization
 
 📁 Project Files
 
-Customer_det.sql - Contains details of customer details.
+Loan_Management.sql - Complete SQL file containing tables, insert statements, and queries.
 
-Customer_income.sql - Contains income details of the customers.
+Customer_det.csv - Contains details of customer details.
 
-country_state.sql - Contains details of customer country details.
+Customer_income.csv - Contains income details of the customers.
 
-Loan_status - Details of loan status of the customers.
+country_state.csv - Contains details of customer country details.
 
-Region_info - Details of the customers regions.
+Loan_status.csv - Details of loan status of the customers.
+
+Region_info.csv - Details of the customers regions.
+
+output1.jpg, output2.jpg, output3.jpg, output4.jpg - Output screenshots.
 
 📸 Sample Output
 
@@ -58,6 +62,7 @@ Automating business logic using SQL
 Writing optimized and meaningful queries
 
 Turning raw tables into actionable insights
+
 
 
 
