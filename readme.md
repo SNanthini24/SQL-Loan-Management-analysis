@@ -44,6 +44,9 @@ The North region shows highest loan approval percentage
 Customer retention is higher in regions with good income consistency
 
  💻 Sample SQL Queries
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/612053da-8cea-4a10-859b-db1ca2d89648" />
+
+ 
 ```sql
 -- 1. View all customer income data
 SELECT * FROM customer_income;
@@ -123,6 +126,7 @@ Add data validation test cases for cleaner ETL pipeline
 
 Nanthini S
 📧 nanthinisakthini@gmail.com
+
 
 
 
